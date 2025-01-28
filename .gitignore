@@ -1,0 +1,13 @@
+env
+.env 
+images/*.jpg
+images/*.png
+
+
+*__pycache__/
+__pycache__/*.pyc
+*.pyc
+*.pyo
+*.pyd
+
+app/*.env
