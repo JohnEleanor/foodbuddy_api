@@ -2,8 +2,8 @@ import os
 
 def save_image(file_id, line_bot_blob_api):
     folder_path = "images"
-    if not os.path.exists(folder_path):
-        os.makedirs(folder_path)
+    # if not os.path.exists(folder_path):
+    #     os.makedirs(folder_path)
 
     file_name = os.path.join(folder_path, f"{file_id}.jpg")
     file_content = line_bot_blob_api.get_message_content(file_id)

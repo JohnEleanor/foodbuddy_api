@@ -1,4 +1,9 @@
 from ultralytics import YOLO # type: ignore
+import json
+import os
+
+
+
 
 def predict_image(image_path: str):
     print("[debug] Detecting.. call function")

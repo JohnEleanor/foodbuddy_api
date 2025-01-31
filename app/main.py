@@ -1,9 +1,13 @@
 import sys
 import os
-from fastapi import FastAPI, UploadFile,Request,Header,  File, HTTPException
+from fastapi import FastAPI, UploadFile,Request,Header,  File, HTTPException, Query
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from linebot.v3.exceptions import InvalidSignatureError
+# from bs4 import BeautifulSoup
+import requests
+import json
+from pydantic import BaseModel
 
 
 from dotenv import load_dotenv
@@ -89,12 +93,47 @@ async def callback(request: Request, x_line_signature: str = Header(None)):
     return 'OK'
 
 
+# --------------------------------------------------------
+# Pydantic model สำหรับ request body
+class FoodRequest(BaseModel):
+    name: str  # ชื่ออาหารที่ต้องการค้นหา
+
+
+@app.post("/search_by_name")
+def search_food(request: FoodRequest):
+    """
+    ค้นหาข้อมูลอาหารตามชื่อจาก ThaiFCD และดึง food_id
+    """
+    name = request.name  # รับชื่ออาหารจาก request body
+    params = {"food_name": name, "search": "ค้นหา"}
+
+    # โหลดข้อมูล JSON ที่เก็บข้อมูลอาหาร
+    with open('food_data.json', 'r', encoding='utf-8') as file:
+        load_json = json.load(file)
+
+    # ทำการค้นหาข้อมูลอาหารจาก JSON
+    nutrition = None
+    thai_name = None
+    eng_name = None
+
+    for food in load_json:
+        if (food.get('Thai_name', '') == name) or (food.get('English_name', '') == name):
+            thai_name = food.get('Thai_name')
+            eng_name = food.get('English_name')
+        if food.get('Thai_name') == name:
+            nutrition = food.get('nutrition')
+            break
+
+    # ตรวจสอบว่าเจอข้อมูลหรือไม่
+    if nutrition is None:
+        return {"message": "ไม่พบข้อมูลสำหรับชื่ออาหารนี้"}
+
+    return {"message": "ค้นหาข้อมูลสำเร็จ", "thai_name" : thai_name, "eng_name" : eng_name, "nutrition": nutrition, "weight_g" : 100}
+    
+   
     
     
 
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000, reload=True)
-    
-
-
