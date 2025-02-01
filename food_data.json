@@ -796,7 +796,7 @@
         "Thai_name": "ข้าวเจ้า, สุก",
         "English_name": "Rice, polished, cooked",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "136"
             },
@@ -1080,7 +1080,7 @@
         "Thai_name": "ข้าวโพดหวาน, เมล็ดสีเหลือง, ดิบ",
         "English_name": "Corn, sweet, whole kernel, yellow,  raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "111"
             },
@@ -2442,7 +2442,7 @@
         "Thai_name": "ก๋วยเตี๋ยวเส้นเล็ก, อบ/ตาก, แห้ง (เส้นจันท์)",
         "English_name": "Noodles, rice, dried, narrow-sized strip  Chanthaburi noodles (Sen-Jan)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "349"
             },
@@ -3020,7 +3020,7 @@
         "Thai_name": "ข้าวเม่า, ข้าวเจ้า",
         "English_name": "Rice, flakes",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "351"
             },
@@ -3093,7 +3093,7 @@
         "Thai_name": "ข้าวเม่า, ข้าวเหนียวขาว",
         "English_name": "Rice, glutinous, flakes",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "364"
             },
@@ -3223,7 +3223,7 @@
         "Thai_name": "บะหมี่, สด",
         "English_name": "Noodles, wheat, fresh",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "298"
             },
@@ -3280,7 +3280,7 @@
         "Thai_name": "บะหมี่, เส้นกลม, ทอด",
         "English_name": "Noodles, egg, round, deep fried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "537"
             },
@@ -3361,7 +3361,7 @@
         "Thai_name": "บะหมี่, เส้นแบน, ทอด",
         "English_name": "Noodles, egg, flat, deep fried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "584"
             },
@@ -3491,7 +3491,7 @@
         "Thai_name": "บะหมี่กึ่งสำเร็จรูป, พร้อมเครื่องปรุง, ต้ม",
         "English_name": "Noodles, wheat, instant, with seasoning, cooked",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "50"
             },
@@ -4241,7 +4241,7 @@
         "Thai_name": "แป้งปอเปี๊ยะ (ไข่ขาว+แป้งสาลี+แป้งมัน)",
         "English_name": "Spring rolls wrapper (egg white+wheat flour+tapioca flour), fresh",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "239"
             },
@@ -4413,7 +4413,7 @@
         "Thai_name": "แป้งห่อปอเปี๊ยะ, แห้ง, แผ่นบาง, แช่น้ำก่อนใช้",
         "English_name": "Spring rolls, wrapper (rice flour), dried, immerse in water before used",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "332"
             },
@@ -4454,7 +4454,7 @@
         "Thai_name": "แผ่นเกี๊ยวทอด ไม่มีหมู",
         "English_name": "Wonton wrapper or dumpling wrapper, fried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "558"
             },
@@ -4711,7 +4711,7 @@
         "Thai_name": "เส้นหมี่ขาว, ทอด",
         "English_name": "Noodles, rice, dried, deep fried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "610"
             },
@@ -4961,82 +4961,6 @@
         }
     },
     {
-        "food_id": 206,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=206"
-    },
-    {
-        "food_id": 207,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=207"
-    },
-    {
-        "food_id": 208,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=208"
-    },
-    {
-        "food_id": 209,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=209"
-    },
-    {
-        "food_id": 210,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=210"
-    },
-    {
-        "food_id": 211,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=211"
-    },
-    {
-        "food_id": 212,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=212"
-    },
-    {
-        "food_id": 213,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=213"
-    },
-    {
-        "food_id": 214,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=214"
-    },
-    {
-        "food_id": 215,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=215"
-    },
-    {
-        "food_id": 216,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=216"
-    },
-    {
-        "food_id": 217,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=217"
-    },
-    {
-        "food_id": 218,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=218"
-    },
-    {
-        "food_id": 219,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=219"
-    },
-    {
-        "food_id": 220,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=220"
-    },
-    {
-        "food_id": 221,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=221"
-    },
-    {
-        "food_id": 222,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=222"
-    },
-    {
-        "food_id": 223,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=223"
-    },
-    {
-        "food_id": 224,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=224"
-    },
-    {
         "food_id": 225,
         "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=225",
         "Food_Code": "N4",
@@ -5128,7 +5052,7 @@
         "Thai_name": "กระเทียม, สด",
         "English_name": "Garlic, fresh",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "51"
             },
@@ -5367,7 +5291,7 @@
         "Thai_name": "กระวาน, ใบ",
         "English_name": "Cardamom, leaves",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "373"
             },
@@ -5420,7 +5344,7 @@
         "Thai_name": "ขมิ้นขาว",
         "English_name": "Turmeric, white, fresh",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "24"
             },
@@ -5497,7 +5421,7 @@
         "Thai_name": "ขมิ้นชัน",
         "English_name": "Turmeric",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "46"
             },
@@ -5574,7 +5498,7 @@
         "Thai_name": "ข่า",
         "English_name": "Galanga",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "35"
             },
@@ -5659,7 +5583,7 @@
         "Thai_name": "ขิง, แก่",
         "English_name": "Ginger, mature rhizome",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "34"
             },
@@ -5728,7 +5652,7 @@
         "Thai_name": "ขิง, หั่นฝอย",
         "English_name": "Ginger, sliced, fine",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "32"
             },
@@ -5878,7 +5802,7 @@
         "Thai_name": "ดอกจันท์",
         "English_name": "Mace",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "390"
             },
@@ -5939,7 +5863,7 @@
         "Thai_name": "ตะไคร้",
         "English_name": "Lemongrass",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "77"
             },
@@ -6024,7 +5948,7 @@
         "Thai_name": "ผักชี, เมล็ด",
         "English_name": "Coriander, seeds",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "325"
             },
@@ -6215,7 +6139,7 @@
         "Thai_name": "พริกชี้ฟ้า, แห้ง",
         "English_name": "Pepper, hot, dried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "353"
             },
@@ -6276,7 +6200,7 @@
         "Thai_name": "พริกไทย, ขาว",
         "English_name": "Pepper, white, powder",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "378"
             },
@@ -6333,7 +6257,7 @@
         "Thai_name": "พริกไทย, ดำ",
         "English_name": "Pepper, black, powder",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "364"
             },
@@ -6390,7 +6314,7 @@
         "Thai_name": "พริกไทยอ่อน",
         "English_name": "Pepper, black, whole, fresh",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "82"
             },
@@ -6520,7 +6444,7 @@
         "Thai_name": "มะกรูด, ใบ",
         "English_name": "Leech lime or Kaffir lime, leaves",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "137"
             },
@@ -6601,7 +6525,7 @@
         "Thai_name": "มะกรูด, ผิว",
         "English_name": "Leech lime or Kaffir lime, peels",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "124"
             },
@@ -6751,7 +6675,7 @@
         "Thai_name": "ยี่หร่า",
         "English_name": "Cumin (Yira), leaves",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "354"
             },
@@ -7071,7 +6995,7 @@
         "Thai_name": "อบเชย",
         "English_name": "Cinnamon",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "329"
             },
@@ -7474,7 +7398,7 @@
         "Thai_name": "ซุปกึ่งสำเร็จรูป, รสต่างๆ",
         "English_name": "Soup, instant, different flavour",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "392"
             },
@@ -7755,7 +7679,7 @@
         "Thai_name": "ซอสพริกไทยดำ",
         "English_name": "Sauce, black pepper",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "154"
             },
@@ -8105,7 +8029,7 @@
         "Thai_name": "ซอสหอยนางรม สูตรผสมกระเทียม",
         "English_name": "Sauce, oyster and galic, mixed",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "82"
             },
@@ -8661,7 +8585,7 @@
         "Thai_name": "ซุปก้อน, รสไก่ ยี่ห้อต่างๆ",
         "English_name": "Bouillon cube, chicken flavoured, different brands",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "208"
             },
@@ -8710,7 +8634,7 @@
         "Thai_name": "ซุปก้อน, รสหมู, ยี่ห้อต่างๆ",
         "English_name": "Bouillon cube, pork flavoured, different brands",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "177"
             },
@@ -8971,7 +8895,7 @@
         "Thai_name": "น้ำบูดู",
         "English_name": "Budu, Muslim fish sauce",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "53"
             },
@@ -10080,7 +10004,7 @@
         "Thai_name": "มะนาว, ดอง",
         "English_name": "Lime, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "46"
             },
@@ -10202,7 +10126,7 @@
         "Thai_name": "เกาลัด, ลูกใหญ่, ดิบ",
         "English_name": "Chestnut, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "217"
             },
@@ -10263,7 +10187,7 @@
         "Thai_name": "ขนุน, เมล็ดสด, ดิบ",
         "English_name": "Jackfruit, seeds, fresh, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "153"
             },
@@ -10328,7 +10252,7 @@
         "Thai_name": "งาขาว. คั่ว",
         "English_name": "Sesame, seeds, white, roasted",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "698"
             },
@@ -10717,7 +10641,7 @@
         "Thai_name": "เงาะ, เมล็ด, ต้ม",
         "English_name": "Rambutan, seeds, boiled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "397"
             },
@@ -10778,7 +10702,7 @@
         "Thai_name": "ถั่วขาว, เมล็ดแห้ง, ดิบ",
         "English_name": "Catjang cowpea, mature seeds, white, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "352"
             },
@@ -11126,7 +11050,7 @@
         "Thai_name": "ถั่วแขก, เมล็ดแห้ง, ดิบ",
         "English_name": "Snap bean, mature seeds, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "367"
             },
@@ -11535,7 +11459,7 @@
         "Thai_name": "ถั่วแดงอินเดีย, เมล็ดแห้ง, ดิบ",
         "English_name": "Red Indian bean, mature seeds, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "356"
             },
@@ -11576,7 +11500,7 @@
         "Thai_name": "ถั่วเต็มกำ, เมล็ดแห้ง, สีแดง, ดิบ",
         "English_name": "Rice bean, mature seeds, red, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "354"
             },
@@ -11633,7 +11557,7 @@
         "Thai_name": "ถั่วเต็มกำ, เมล็ดแห้ง, สีต่างๆ, ดิบ",
         "English_name": "Rice bean, mature seeds, mixed colours, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "353"
             },
@@ -11690,7 +11614,7 @@
         "Thai_name": "ถั่วเต็มกำ, เมล็ดแห้ง, สีเหลือง, ดิบ",
         "English_name": "Rice bean, mature seeds, yellow, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "352"
             },
@@ -11747,7 +11671,7 @@
         "Thai_name": "ถั่วเต็มกำ, เมล็ดแห้ง, สีเหลืองอมเขียว, ดิบ",
         "English_name": "Rice bean, mature seeds, yellow-green, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "352"
             },
@@ -11800,7 +11724,7 @@
         "Thai_name": "ถั่วนางหอม, เมล็ดแห้ง, ดิบ",
         "English_name": "Sweet pea, mature seeds, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "354"
             },
@@ -11877,7 +11801,7 @@
         "Thai_name": "ถั่วนางหอม, เมล็ดแห้ง, ปอกเปลือก",
         "English_name": "Sweet pea, mature seeds, dehulled, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "352"
             },
@@ -11930,7 +11854,7 @@
         "Thai_name": "ถั่วปากอ้า, เมล็ดแห้ง, ดิบ",
         "English_name": "Broad bean, mature seeds, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "349"
             },
@@ -11979,7 +11903,7 @@
         "Thai_name": "ถั่วแปะยี, เมล็ดแห้ง, ดิบ",
         "English_name": "Hyacinth / lablab bean, mature seeds, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "350"
             },
@@ -12048,7 +11972,7 @@
         "Thai_name": "ถั่วแปะยี, เมล็ดแห้ง, คั่ว",
         "English_name": "Hyacinth / lablab bean, mature seeds, roasted",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "371"
             },
@@ -12093,7 +12017,7 @@
         "Thai_name": "ถั่วแปะยี, เมล็ดแห้ง, ทอด",
         "English_name": "Hyacinth / lablab bean, mature seeds, deep-fried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "449"
             },
@@ -12203,7 +12127,7 @@
         "Thai_name": "ถั่วฝักยาว, เมล็ดแห้ง, ดิบ",
         "English_name": "Yardlong bean, mature seeds, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "347"
             },
@@ -12236,7 +12160,7 @@
         "Thai_name": "ถั่วพุ่ม, เมล็ดแห้ง, สีต่างๆ, ดิบ",
         "English_name": "Cowpea, mature seeds, mixed colours, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "357"
             },
@@ -12317,7 +12241,7 @@
         "Thai_name": "ถั่วพู, เมล็ดแห้ง, ดิบ",
         "English_name": "Winged bean, mature seeds, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "424"
             },
@@ -12382,7 +12306,7 @@
         "Thai_name": "ถั่วแระ, ดิบ",
         "English_name": "Soybean, young seeds, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "172"
             },
@@ -12576,7 +12500,7 @@
         "Thai_name": "ถั่วลันเตา, เมล็ดแห้ง, ดิบ",
         "English_name": "Pea, mature seeds, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "341"
             },
@@ -12609,7 +12533,7 @@
         "Thai_name": "ถั่วลาย, เมล็ดแห้ง, ทั้งเปลือกหุ้ม, ดิบ",
         "English_name": "Butterfly pea, mature seeds, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "354"
             },
@@ -12666,7 +12590,7 @@
         "Thai_name": "ถั่วลาย, เมล็ดแห้ง, แยกเปลือก, ดิบ",
         "English_name": "Butterfly pea, mature seeds, dehulled, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "353"
             },
@@ -12954,7 +12878,7 @@
         "Thai_name": "ถั่วเล็บมือนาง, เมล็ดแห้ง, คั่ว",
         "English_name": "Rice bean, mature seeds, roasted",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "359"
             },
@@ -13007,7 +12931,7 @@
         "Thai_name": "ถั่วเล็บมือนาง, เมล็ดแห้ง, ดิบ",
         "English_name": "Rice bean, mature seeds, dried, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "345"
             },
@@ -13072,7 +12996,7 @@
         "Thai_name": "ถั่วหรั่ง, ดิบ",
         "English_name": "Bambara groundnut, fresh, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "180"
             },
@@ -13145,7 +13069,7 @@
         "Thai_name": "ถั่วหรั่ง, ต้ม",
         "English_name": "Bambara groundnut, boiled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "160"
             },
@@ -13429,7 +13353,7 @@
         "Thai_name": "แปะก๊วย, เมล็ด, ไม่มีเปลือก",
         "English_name": "Ginko, seed, hulled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "191"
             },
@@ -13786,7 +13710,7 @@
         "Thai_name": "มะขาม,  เมล็ด, คั่ว",
         "English_name": "Tamarind seed, roasted",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "386"
             },
@@ -13916,7 +13840,7 @@
         "Thai_name": "มะม่วงหิมพานต์, เมล็ดแห้ง, คั่ว",
         "English_name": "Cashew nut, roasted",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "597"
             },
@@ -14106,7 +14030,7 @@
         "Thai_name": "มะม่วงหิมพานต์, เมล็ดแห้ง, อบ",
         "English_name": "Cashew nut, baked",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "589"
             },
@@ -14440,7 +14364,7 @@
         "Thai_name": "เต้าเจี้ยวขาว",
         "English_name": "Soybean paste  (Tau-jieo), white",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "107"
             },
@@ -14525,7 +14449,7 @@
         "Thai_name": "เต้าเจี้ยวดำ",
         "English_name": "Soybean paste (Tau-jieo), black",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "88"
             },
@@ -14570,7 +14494,7 @@
         "Thai_name": "เต้าหู้, แห้ง",
         "English_name": "Soybean curd (tofu), dried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "512"
             },
@@ -14708,7 +14632,7 @@
         "Thai_name": "เต้าหู้ขาว, ชนิดแข็ง, ชนิดแคลเซียมสูง",
         "English_name": "Soybean curd (tofu), white, hard, high calcium",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "103"
             },
@@ -15130,7 +15054,7 @@
         "Thai_name": "เต้าหู้ยี้",
         "English_name": "Soybean cheese, fermented tofu",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "129"
             },
@@ -15199,7 +15123,7 @@
         "Thai_name": "เต้าหู้เหลือง, แข็ง",
         "English_name": "Soybean curd (tofu), yellow, hard",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "120"
             },
@@ -15268,7 +15192,7 @@
         "Thai_name": "เต้าหู้เหลือง, แห้ง, ดิบ",
         "English_name": "Soybean curd (tofu), yellow, dried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "468"
             },
@@ -15333,7 +15257,7 @@
         "Thai_name": "เต้าหู้เหลือง, แห้ง, ทอด",
         "English_name": "Soybean curd (tofu), yellow, dried, deep-fried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "613"
             },
@@ -15398,7 +15322,7 @@
         "Thai_name": "ถั่วเน่า, สด",
         "English_name": "Soybean, fermented (Tooa-nao), fresh",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "167"
             },
@@ -15922,7 +15846,7 @@
         "Thai_name": "ฟองเต้าหู้, แห้ง",
         "English_name": "Soybean sheet, dried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "512"
             },
@@ -16068,7 +15992,7 @@
         "Thai_name": "เมล็ดบัว, นึ่ง",
         "English_name": "Lotus, seeds, steamed",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "157"
             },
@@ -16292,7 +16216,7 @@
         "Thai_name": "กระเจี๊ยบ, ใบ",
         "English_name": "Roselle (Red sorrel), leaves, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "57"
             },
@@ -16511,7 +16435,7 @@
         "Thai_name": "กระเจียว (ปทุมา), ดอก, ดิบ",
         "English_name": "Siam tulip, flowers, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "34"
             },
@@ -16584,7 +16508,7 @@
         "Thai_name": "กระโดน (จิก), ดอก",
         "English_name": "Ros Jig  Indian Oak, flowers, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "66"
             },
@@ -16787,7 +16711,7 @@
         "Thai_name": "กระถิน, เมล็ด, ดิบ",
         "English_name": "Horse-tamarind, seeds, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "152"
             },
@@ -17269,7 +17193,7 @@
         "Thai_name": "กุยช่าย, ขาว, ใบ, ดิบ",
         "English_name": "Chive, Chinese, leaves, white, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "28"
             },
@@ -17508,7 +17432,7 @@
         "Thai_name": "ขจร, ดอก, ดิบ",
         "English_name": "Cowslip creeper, flowers, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "78"
             },
@@ -17711,7 +17635,7 @@
         "Thai_name": "ข่า, ดอก, ดิบ",
         "English_name": "Galanga, flowers, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "54"
             },
@@ -18133,7 +18057,7 @@
         "Thai_name": "ขี้เหล็ก, ยอดอ่อน, ดิบ",
         "English_name": "Cassia, tender tips, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "65"
             },
@@ -18275,7 +18199,7 @@
         "Thai_name": "ควินิน, ดอก, ดิบ",
         "English_name": "Quinine, flowers, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "81"
             },
@@ -19143,7 +19067,7 @@
         "Thai_name": "ต้นหอม, ดอก, ดิบ",
         "English_name": "Spring onion, flower, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "25"
             },
@@ -19273,7 +19197,7 @@
         "Thai_name": "ตะลิงปลิง, ผล",
         "English_name": "Bilimbi, fruits (taling pling)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "11"
             },
@@ -19330,7 +19254,7 @@
         "Thai_name": "ตั้งโอ๋, ใบ, ดิบ",
         "English_name": "Garland-chrysanthemum, leaves, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "20"
             },
@@ -19504,7 +19428,7 @@
         "Thai_name": "แตงไทยอ่อน, ดิบ",
         "English_name": "Muskmelon, young (Native melon, young), raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "13"
             },
@@ -19553,7 +19477,7 @@
         "Thai_name": "แตงโมอ่อน, ดิบ",
         "English_name": "Watermelon, young, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "12"
             },
@@ -19930,7 +19854,7 @@
         "Thai_name": "ถั่วปี, ดิบ",
         "English_name": "Thua-pi (Thai), raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "39"
             },
@@ -20363,7 +20287,7 @@
         "Thai_name": "เถาคัน, ผล",
         "English_name": "Treebine, fruits",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "27"
             },
@@ -20420,7 +20344,7 @@
         "Thai_name": "ทองหลาง, ใบ, ดิบ",
         "English_name": "Coral, leaves, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "66"
             },
@@ -20594,7 +20518,7 @@
         "Thai_name": "เนียงนก, ผล",
         "English_name": "Niang nok",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "153"
             },
@@ -20659,7 +20583,7 @@
         "Thai_name": "เนียงหรือชะเนียง, ผล",
         "English_name": "Niang/Cha niang/ Djenkol bean fruit",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "162"
             },
@@ -20817,7 +20741,7 @@
         "Thai_name": "บวบ, ยอด, ดิบ",
         "English_name": "Gourd/loofah, sponge, young leaves (tips), raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "43"
             },
@@ -20988,7 +20912,7 @@
         "Thai_name": "บวบงู,  ต้ม",
         "English_name": "Gourd, snake, boiled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "18"
             },
@@ -21061,7 +20985,7 @@
         "Thai_name": "บวบหอม, ดิบ",
         "English_name": "Gourd, sponge",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "26"
             },
@@ -21336,7 +21260,7 @@
         "Thai_name": "บุกเกียง, ยอดอ่อน",
         "English_name": "Stanley,s watertub, tips",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "21"
             },
@@ -22584,7 +22508,7 @@
         "Thai_name": "ผักกาดขาวปลี, ดิบ",
         "English_name": "Cabbage, Pe-tsai, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "15"
             },
@@ -22641,7 +22565,7 @@
         "Thai_name": "ผักกาดเขียว, ดิบ",
         "English_name": "Mustard, Chinese, leaves, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "24"
             },
@@ -23350,7 +23274,7 @@
         "Thai_name": "ผักคะน้า, ต้ม",
         "English_name": "Kale, Chinese, boiled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "24"
             },
@@ -23391,7 +23315,7 @@
         "Thai_name": "ผักคะน้า, ยอดอ่อน, ดิบ",
         "English_name": "Kale, Chinese, young leaves, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "31"
             },
@@ -23789,7 +23713,7 @@
         "Thai_name": "ผักชีฝรั่ง, ดิบ",
         "English_name": "Culantro, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "41"
             },
@@ -24048,7 +23972,7 @@
         "Thai_name": "ผักดาวส้มดาวขม, ดิบ",
         "English_name": "Pak-dow-som-dow-khom, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "30"
             },
@@ -24230,7 +24154,7 @@
         "Thai_name": "ผักติ้ว, ดิบ",
         "English_name": "Pak-tew, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "82"
             },
@@ -24307,7 +24231,7 @@
         "Thai_name": "ผักติ้วมอญ, ดิบ",
         "English_name": "Pak-tew-mon, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "77"
             },
@@ -24760,7 +24684,7 @@
         "Thai_name": "ผักปรีเดอม",
         "English_name": "Pak-pre-derm, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "112"
             },
@@ -24995,7 +24919,7 @@
         "Thai_name": "ผักเป็ดน้ำ, ดิบ",
         "English_name": "Alligator weed, Sessile joyweed, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "52"
             },
@@ -25118,7 +25042,7 @@
         "Thai_name": "ผักโป้งเป้ง, ดิบ",
         "English_name": "Pak-pong-peng, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "43"
             },
@@ -25248,7 +25172,7 @@
         "Thai_name": "ผักพังคี, ดิบ",
         "English_name": "Thick-leaf croton, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "93"
             },
@@ -25625,7 +25549,7 @@
         "Thai_name": "ผักลำโบ้, ดิบ",
         "English_name": "Pak-lum-bo, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "33"
             },
@@ -25694,7 +25618,7 @@
         "Thai_name": "ผักว๊อกแวม, ดิบ",
         "English_name": "Pak-vog-vam, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "72"
             },
@@ -26015,7 +25939,7 @@
         "Thai_name": "ผักเสี้ยน, ดิบ",
         "English_name": "Spider weed, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "34"
             },
@@ -26056,7 +25980,7 @@
         "Thai_name": "ผักเสี้ยว (ชงโค), จ.เชียงใหม่",
         "English_name": "Thomass tree tender tips",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "60"
             },
@@ -26125,7 +26049,7 @@
         "Thai_name": "ผักแส้ว, ยอด",
         "English_name": "Pak-saeo, tips",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "52"
             },
@@ -26397,7 +26321,7 @@
         "Thai_name": "ผักหวาน, ดิบ",
         "English_name": "Pak waan (Thai), raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "50"
             },
@@ -26587,7 +26511,7 @@
         "Thai_name": "ผักหวานป่า (เฉพาะใบ), ดิบ",
         "English_name": "Pak-waan-pa, leaves only, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "49"
             },
@@ -26620,7 +26544,7 @@
         "Thai_name": "ผักหางหมาม้อ, ดิบ",
         "English_name": "Pak-hang-mah-mo, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "95"
             },
@@ -26799,7 +26723,7 @@
         "Thai_name": "ผักโหมเหบ/ผักสันตะวา, ดิบ",
         "English_name": "Pak-hom-hep/Pak-San-ta-wa, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "14"
             },
@@ -27136,7 +27060,7 @@
         "Thai_name": "พริกชี้ฟ้า, สด, เขียว",
         "English_name": "Pepper, green, hot, fresh",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "55"
             },
@@ -27205,7 +27129,7 @@
         "Thai_name": "พริกชี้ฟ้า, สด, แดง",
         "English_name": "Pepper, red, hot, fresh",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "75"
             },
@@ -27809,7 +27733,7 @@
         "Thai_name": "พริกเหลือง",
         "English_name": "Pepper, hot, yellow",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "113"
             },
@@ -27935,7 +27859,7 @@
         "Thai_name": "ฟักข้าว, ดิบ",
         "English_name": "Gac fruit, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "29"
             },
@@ -28020,7 +27944,7 @@
         "Thai_name": "ฟักข้าว, ยอด",
         "English_name": "Gac fruit, tips",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "48"
             },
@@ -28928,7 +28852,7 @@
                 "unit": "%",
                 "value": "80.000"
             },
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "59"
             },
@@ -29361,7 +29285,7 @@
         "Thai_name": "มะเขือม่วง, ดิบ",
         "English_name": "Eggplant (brinjal eggplant, aubergine), raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "37"
             },
@@ -29924,7 +29848,7 @@
         "Thai_name": "มะยม, ใบอ่อน, ดิบ",
         "English_name": "Star gooseberry, young leaves, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "93"
             },
@@ -30341,7 +30265,7 @@
         "Thai_name": "มะรุม, ใบ, ดิบ",
         "English_name": "Drumstick, leaves, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "47"
             },
@@ -30629,7 +30553,7 @@
         "Thai_name": "มะแว้ง, ดิบ",
         "English_name": "Sparrows brinjal, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "79"
             },
@@ -30698,7 +30622,7 @@
         "Thai_name": "มันเทศ, ยอด, ดิบ",
         "English_name": "Potato, sweet, young leaves, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "58"
             },
@@ -31283,7 +31207,7 @@
         "Thai_name": "ลิ่มไม้, ดอก, ดิบ",
         "English_name": "Lim-mai, flowers, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "39"
             },
@@ -31332,7 +31256,7 @@
         "Thai_name": "ลิ่มไม้, ใบ, ดิบ",
         "English_name": "Lim-mai, leaves, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "77"
             },
@@ -31757,7 +31681,7 @@
         "Thai_name": "สันตะวาใบพาย",
         "English_name": "Santawa-bai- phai",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "10"
             },
@@ -32261,7 +32185,7 @@
         "Thai_name": "หน่อไม้ไผ่รวก, ต้ม",
         "English_name": "Bamboo shoot, boiled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "27"
             },
@@ -32310,7 +32234,7 @@
         "Thai_name": "หน่อไม้ไผ่รวก, เผา",
         "English_name": "Bamboo shoot,roasted",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "36"
             },
@@ -32525,7 +32449,7 @@
         "Thai_name": "หน่อไม้หวาน, ดิบ",
         "English_name": "Bamboo shoot, hairy sweet, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "16"
             },
@@ -32586,7 +32510,7 @@
         "Thai_name": "หยวกกล้วย, ดิบ",
         "English_name": "Banana, stem, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "11"
             },
@@ -32631,7 +32555,7 @@
         "Thai_name": "หยวกกล้วยน้ำว้าอ่อน, ดิบ",
         "English_name": "Banana, young stem, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "15"
             },
@@ -32967,7 +32891,7 @@
         "Thai_name": "เห็ดกระดุม/แชมปิญอง, ดิบ",
         "English_name": "Mushroom, button/champignon, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "33"
             },
@@ -33403,7 +33327,7 @@
         "Thai_name": "เห็ดชาง",
         "English_name": "Mushroom, Hed-saang",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "197"
             },
@@ -33444,7 +33368,7 @@
         "Thai_name": "เห็ดตะไคล, ดิบ",
         "English_name": "Mushroom, Russula delica, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "41"
             },
@@ -33517,7 +33441,7 @@
         "Thai_name": "เห็ดตับเต่า",
         "English_name": "Mushroom, bolete, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "31"
             },
@@ -33675,7 +33599,7 @@
         "Thai_name": "เห็ดนางนวล, ดิบ",
         "English_name": "Mushroom, pink oyster, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "17"
             },
@@ -33870,7 +33794,7 @@
         "Thai_name": "เห็ดนางรม, ดิบ",
         "English_name": "Mushroom, oyster, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "36"
             },
@@ -34769,7 +34693,7 @@
         "Thai_name": "เห็ดลม/ เห็ดกระด้าง, ดิบ",
         "English_name": "Mushroom, Pleurotus, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "129"
             },
@@ -34846,7 +34770,7 @@
         "Thai_name": "เห็ดหอม, แห้ง",
         "English_name": "Mushroom, shiitake, dried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "329"
             },
@@ -35562,7 +35486,7 @@
         "Thai_name": "กระเทียม, ดอง",
         "English_name": "Garlic, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "50"
             },
@@ -35693,7 +35617,7 @@
         "Thai_name": "ต้นหอม, ดอง",
         "English_name": "Spring onion (Welsh onion), pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "43"
             },
@@ -35726,7 +35650,7 @@
         "Thai_name": "ตั้งฉ่าย",
         "English_name": "Cabbage, fermented, dried (Tang-chai)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "87"
             },
@@ -35763,7 +35687,7 @@
         "Thai_name": "ถั่วงอก, ดอง",
         "English_name": "Mung bean sprout, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "36"
             },
@@ -36004,7 +35928,7 @@
         "Thai_name": "มะเขือเปราะ, ดอง",
         "English_name": "Yellow berried nightshade, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "26"
             },
@@ -36037,7 +35961,7 @@
         "Thai_name": "สะตอ, ดอง",
         "English_name": "Stinkbean, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "116"
             },
@@ -36216,7 +36140,7 @@
         "Thai_name": "หน่อไม้, บรรจุปี๊ป",
         "English_name": "Bamboo shoot, boiled, packed in a big metal container",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "39"
             },
@@ -36285,7 +36209,7 @@
         "Thai_name": "หน่อไม้ไผ่ตง, ดอง",
         "English_name": "Bamboo shoot, cultivated, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "21"
             },
@@ -36318,7 +36242,7 @@
         "Thai_name": "หัวผักกาด, ดอง",
         "English_name": "Chinese radish, leaves, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "91"
             },
@@ -36355,7 +36279,7 @@
         "Thai_name": "หัวผักกาด, ดอง, หวาน",
         "English_name": "Chinese radish, leaves, sweet pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "55"
             },
@@ -36445,7 +36369,7 @@
         "Thai_name": "หัวผักกาด, แห้ง, หวาน",
         "English_name": "Radish, preserved, sweetened",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "131"
             },
@@ -37681,7 +37605,7 @@
         "Thai_name": "ขนุนละมุด, สุก",
         "English_name": "Jackfruit, La-mud variety, ripe",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "117"
             },
@@ -38005,7 +37929,7 @@
         "Thai_name": "เงาะ",
         "English_name": "Rambutan",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "77"
             },
@@ -38264,7 +38188,7 @@
         "Thai_name": "ชมพู่แก้มแหม่ม",
         "English_name": "Wax jambu /Java apple",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "16"
             },
@@ -38410,7 +38334,7 @@
         "Thai_name": "ชมพู่แขกดำ",
         "English_name": "Rose apple, Khak-dum variety",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "24"
             },
@@ -38637,7 +38561,7 @@
         "Thai_name": "ชมพู่นาค",
         "English_name": "Water rose, Nak (redish color) variety",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "26"
             },
@@ -38694,7 +38618,7 @@
         "Thai_name": "ชมพู่มะเหมี่ยว",
         "English_name": "Malay apple, Ma-meaw (red colour) variety",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "34"
             },
@@ -38832,7 +38756,7 @@
         "Thai_name": "ชมพู่สาแหรก",
         "English_name": "Malay-apple",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "32"
             },
@@ -38889,7 +38813,7 @@
         "Thai_name": "ชมพู่สีชาด",
         "English_name": "Water apple, deep-red",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "21"
             },
@@ -39019,7 +38943,7 @@
         "Thai_name": "ตะโก, ผล",
         "English_name": "Persimmon, fruit",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "105"
             },
@@ -39141,7 +39065,7 @@
         "Thai_name": "ตาล, จาว",
         "English_name": "Toddy palm, cotyledon",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "116"
             },
@@ -39198,7 +39122,7 @@
         "Thai_name": "แตงไทย",
         "English_name": "Musk melon (Tang-thai)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "13"
             },
@@ -39433,10 +39357,6 @@
                 "value": "6.75"
             }
         }
-    },
-    {
-        "food_id": 727,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=727"
     },
     {
         "food_id": 728,
@@ -39718,14 +39638,6 @@
         }
     },
     {
-        "food_id": 731,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=731"
-    },
-    {
-        "food_id": 732,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=732"
-    },
-    {
         "food_id": 733,
         "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=733",
         "Food_Code": "E33",
@@ -39847,17 +39759,13 @@
         }
     },
     {
-        "food_id": 734,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=734"
-    },
-    {
         "food_id": 735,
         "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=735",
         "Food_Code": "E34",
         "Thai_name": "ทุเรียนลวง",
         "English_name": "Durian, E-loung variety",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "141"
             },
@@ -40250,7 +40158,7 @@
         "Thai_name": "พุทราไทย",
         "English_name": "Jujube, Thai variety",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "89"
             },
@@ -40327,7 +40235,7 @@
         "Thai_name": "พุทราลูกยาว",
         "English_name": "Jujube, oval shape",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "120"
             },
@@ -40627,7 +40535,7 @@
         "Thai_name": "แพร์",
         "English_name": "Pear, European",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "43"
             },
@@ -40692,7 +40600,7 @@
         "Thai_name": "มะกอกไทย",
         "English_name": "Hog plums",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "89"
             },
@@ -40753,7 +40661,7 @@
         "Thai_name": "มะกอกฝรั่ง",
         "English_name": "Olive, Otaheite apple",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "52"
             },
@@ -41025,7 +40933,7 @@
         "Thai_name": "มะดัน",
         "English_name": "Garcinia, fresh",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "32"
             },
@@ -41082,7 +40990,7 @@
         "Thai_name": "มะเดื่อ",
         "English_name": "Fig",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "54"
             },
@@ -41390,7 +41298,7 @@
         "Thai_name": "มะไฟ",
         "English_name": "Rambai/ Lantern Tree",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "48"
             },
@@ -41758,7 +41666,7 @@
         "Thai_name": "มะม่วงเขียวเสวย, สุก",
         "English_name": "Mango, Kiew-sa-weya variety, ripe",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "82"
             },
@@ -41803,7 +41711,7 @@
         "Thai_name": "มะม่วงตับเป็ด, สุก",
         "English_name": "Mango, Tub-ped variety, ripe",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "93"
             },
@@ -41848,7 +41756,7 @@
         "Thai_name": "มะม่วงทองดำ, ดิบ",
         "English_name": "Mango, Thong-dum variety, unripe",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "86"
             },
@@ -41909,7 +41817,7 @@
         "Thai_name": "มะม่วงทองดำ, สุก",
         "English_name": "Mango, Thong-dum variety, ripe",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "82"
             },
@@ -41962,7 +41870,7 @@
         "Thai_name": "มะม่วงทะวาย, ดิบ",
         "English_name": "Mango, Ta-wai variety, unripe",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "80"
             },
@@ -42189,7 +42097,7 @@
         "Thai_name": "มะม่วงพิมเสนมัน, สุก",
         "English_name": "Mango, Pim-sen-mun variety, ripe",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "64"
             },
@@ -42254,7 +42162,7 @@
         "Thai_name": "มะม่วงพิมเสนมัน, ห่าม",
         "English_name": "Mango, Pim-sen-mun variety, half-ripe",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "93"
             },
@@ -42477,7 +42385,7 @@
         "Thai_name": "มะม่วงหนังกลางวัน, สุก",
         "English_name": "Mango, Nung-klang-wan variety, ripe",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "85"
             },
@@ -42748,7 +42656,7 @@
         "Thai_name": "มะยม",
         "English_name": "Star gooseberry (Ma-yom)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "34"
             },
@@ -42805,7 +42713,7 @@
         "Thai_name": "มะละกอ, ค่อนข้างสุก",
         "English_name": "Papaya, nearly ripe",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "13"
             },
@@ -43060,7 +42968,7 @@
         "Thai_name": "ระกำ",
         "English_name": "Salak palm",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "60"
             },
@@ -43380,7 +43288,7 @@
         "Thai_name": "ละมุด, มะกอก",
         "English_name": "Sapodilla / Mimusops, Ma-kok variety",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "35"
             },
@@ -43449,7 +43357,7 @@
         "Thai_name": "ละมุด, สีดา",
         "English_name": "Sapodilla / Mimusops, see-da variety",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "127"
             },
@@ -43502,7 +43410,7 @@
         "Thai_name": "ลางสาด",
         "English_name": "Lancet / Langsium / Langsat",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "67"
             },
@@ -43846,7 +43754,7 @@
         "Thai_name": "ลิ้นจี่, แห้ว",
         "English_name": "Litchi / Lychee, Haew variety",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "92"
             },
@@ -45312,7 +45220,7 @@
         "Thai_name": "ส้ม, เกลี้ยง",
         "English_name": "Orange, sweet",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "52"
             },
@@ -45470,7 +45378,7 @@
         "Thai_name": "ส้ม, จุก",
         "English_name": "Neck Orange",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "40"
             },
@@ -46142,7 +46050,7 @@
         "Thai_name": "แห้ว",
         "English_name": "Water chestnut",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "91"
             },
@@ -46405,10 +46313,6 @@
                 "value": "11.17"
             }
         }
-    },
-    {
-        "food_id": 819,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=819"
     },
     {
         "food_id": 820,
@@ -47160,7 +47064,7 @@
         "Thai_name": "บ๊วย, ดอง",
         "English_name": "Japanese apricots (Buay), pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "43"
             },
@@ -47242,7 +47146,7 @@
         "Thai_name": "พุทรา, ดอง",
         "English_name": "Jujube, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "41"
             },
@@ -47340,7 +47244,7 @@
         "Thai_name": "มะกอกน้ำ, ดอง",
         "English_name": "Spanish plums, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "38"
             },
@@ -47422,7 +47326,7 @@
         "Thai_name": "มะขาม, ดอง",
         "English_name": "Tamarind, half-ripe, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "53"
             },
@@ -47455,7 +47359,7 @@
         "Thai_name": "มะขามป้อม, ดอง",
         "English_name": "Indian gooseberry, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "51"
             },
@@ -47484,7 +47388,7 @@
         "Thai_name": "มะดัน, ดอง",
         "English_name": "Garcinia, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "21"
             },
@@ -47517,7 +47421,7 @@
         "Thai_name": "มะนาว, ดอง",
         "English_name": "Lime, preserved, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "46"
             },
@@ -47550,7 +47454,7 @@
         "Thai_name": "มะปริง, แช่อิ่ม",
         "English_name": "Gandaria / Plum mango, candied",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "76"
             },
@@ -47632,7 +47536,7 @@
         "Thai_name": "มะม่วง, ดอง",
         "English_name": "Mango, unripe, preserved, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "70"
             },
@@ -47824,7 +47728,7 @@
         "Thai_name": "มะยม, ดอง",
         "English_name": "Star gooseberry (Mayom), pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "24"
             },
@@ -48056,7 +47960,7 @@
         "Thai_name": "ลูกจันทน์เทศ, ดอง",
         "English_name": "Nutmeg fruit (Loog-jan), pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "85"
             },
@@ -48203,7 +48107,7 @@
         "Thai_name": "ลูกท้อ, ดอง",
         "English_name": "Peach, Thai variety (Loog-taw), pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "27"
             },
@@ -48317,7 +48221,7 @@
         "Thai_name": "ลำไย, อบแห้ง",
         "English_name": "Longan, dried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "319"
             },
@@ -48472,7 +48376,7 @@
         "Thai_name": "สมอ, ดอง",
         "English_name": "Sa-mor, pickled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "86"
             },
@@ -60907,7 +60811,7 @@
         "Thai_name": "กุ้ง, ป่น",
         "English_name": "Shrimp, cooked, dried, gound",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "257"
             },
@@ -60940,7 +60844,7 @@
         "Thai_name": "กุ้ง, แห้ง, ตัวเล็ก, มีเปลือก",
         "English_name": "Shrimp, small size, with shell, salted, dried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "242"
             },
@@ -61025,7 +60929,7 @@
         "Thai_name": "กุ้ง, แห้ง, ไม่มีเปลือก",
         "English_name": "Shrimp, without shell, salted, dried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "199"
             },
@@ -71515,7 +71419,7 @@
         "Thai_name": "กุนเชียงปลา",
         "English_name": "Sausage, Chinese, fish",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "318"
             },
@@ -71958,7 +71862,7 @@
         "Thai_name": "เค็มบักนัด/เค็มหมากนัด (เค็มสับปะรด)",
         "English_name": "Fermented fish with pineapple pulp, salted (Kem-bug-nud)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "94"
             },
@@ -72319,7 +72223,7 @@
         "Thai_name": "ปลา, หนัง, ทอด, ปรุงรส",
         "English_name": "Fish, skin, fried, seasoned",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "546"
             },
@@ -74384,7 +74288,7 @@
         "Thai_name": "ปลาร้า, ปลากระดี่",
         "English_name": "Fermented fish (Pla-ra), three-spot gourami",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "79"
             },
@@ -74453,7 +74357,7 @@
         "Thai_name": "ปลาร้า, ปลาช่อน",
         "English_name": "Fermented fish (Pla-ra), striped snake-head",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "91"
             },
@@ -74518,7 +74422,7 @@
         "Thai_name": "ปลาร้า, ปลานิล",
         "English_name": "Fermented fish (Pla-ra), nile tilapia",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "123"
             },
@@ -74587,7 +74491,7 @@
         "Thai_name": "ปลาร้า, ปลากาดำ/ปลาอีตู๋",
         "English_name": "Fermented fish (Pla-ra), greater black shark",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "210"
             },
@@ -74656,7 +74560,7 @@
         "Thai_name": "ปลาร้า, เนื้อ (ชิ้นใหญ่/เป็นตัว), ปลารวม",
         "English_name": "Fermented fish (Pla-ra), flesh (large size/whole), mixed fish varieties",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "133"
             },
@@ -74725,7 +74629,7 @@
         "Thai_name": "ปลาร้า, เนื้อ, สำหรับแกง, ปลารวม",
         "English_name": "Fermented fish (Pla-ra), flesh, for soup (northeast Thai style), mixed fish varieties",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "73"
             },
@@ -74794,7 +74698,7 @@
         "Thai_name": "ปลาร้า,  รวมเนื้อและน้ำ, สำหรับแกง, ปลารวม",
         "English_name": "Fermented fish (Pla-ra), mixed flesh and sauce, for soup (northeast Thai style), mixed fish varieties",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "69"
             },
@@ -74863,7 +74767,7 @@
         "Thai_name": "ปลาร้าต่วง, ปลารวม",
         "English_name": "Fermented fish (Pla-ra-taung), mixed fish varieties",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "52"
             },
@@ -74932,7 +74836,7 @@
         "Thai_name": "ปลาร้า, น้ำ, ต้มสุก, สำหรับส้มตำ",
         "English_name": "Fermented fish (Pla-ra), sauce, boiled, for papaya salad",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "31"
             },
@@ -75001,7 +74905,7 @@
         "Thai_name": "ปลาร้า, น้ำ, สำหรับส้มตำ",
         "English_name": "Fermented fish (Pla-ra), sauce, for papaya salad",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "36"
             },
@@ -75070,7 +74974,7 @@
         "Thai_name": "ปลาร้า, สับ (แจ่วบ่อง)",
         "English_name": "Fermented fish, ground (Jaew-bong)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "147"
             },
@@ -75192,7 +75096,7 @@
         "Thai_name": "ปลาส้ม (ปลาสร้อย), ตัวเล็ก, มีก้าง, ดิบ",
         "English_name": "Fermented fish (Pla-som), mimrow, small, with fishbone, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "124"
             },
@@ -75261,7 +75165,7 @@
         "Thai_name": "ปลาส้ม (ปลาสร้อย), ตัวเล็ก, ไม่มีก้าง, ดิบ",
         "English_name": "Fermented fish (Pla-som), mimrow, small, without fishbone, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "107"
             },
@@ -75330,7 +75234,7 @@
         "Thai_name": "ปลาส้ม, ตัวใหญ่, เฉพาะเนื้อ, ทอด",
         "English_name": "Fermented fish (Pla-som), large size, flesh, fried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "348"
             },
@@ -75399,7 +75303,7 @@
         "Thai_name": "ปลาส้ม, บดละเอียด, ดิบ",
         "English_name": "Fermented fish (Pla-som), ground, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "105"
             },
@@ -75962,7 +75866,7 @@
         "Thai_name": "ปลาหมึก, กรอบ, ปรุงรส",
         "English_name": "Squid snack, crispy, seasoned",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "363"
             },
@@ -76043,7 +75947,7 @@
         "Thai_name": "ปลาหมึก, บด, ปรุงรส",
         "English_name": "Squid snack, seasoned",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "348"
             },
@@ -76352,7 +76256,7 @@
         "Thai_name": "ปลาหมึกผสมแป้งสาลี, อบกรอบ",
         "English_name": "Squid snack, mixed with wheat flour, crispy",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "361"
             },
@@ -83311,7 +83215,7 @@
         "Thai_name": "โยเกิร์ต, ไขมันต่ำ, รสต่างๆ",
         "English_name": "Yoghurt, cream, low-fat, different flavours",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "92"
             },
@@ -83360,7 +83264,7 @@
         "Thai_name": "โยเกิร์ต, ผสมวุ้นมะพร้าว",
         "English_name": "Yoghurt, cream, with nata de coco",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "111"
             },
@@ -83583,7 +83487,7 @@
         "Thai_name": "โยเกิร์ต, รสธัญญาหาร",
         "English_name": "Yoghurt, cream, cereal flavoured",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "114"
             },
@@ -83697,7 +83601,7 @@
         "Thai_name": "กะทิ, สด",
         "English_name": "Coconut milk, fresh",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "148"
             },
@@ -83730,7 +83634,7 @@
         "Thai_name": "กะทิ, หัว",
         "English_name": "Coconut milk, cream",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "272"
             },
@@ -83799,7 +83703,7 @@
         "Thai_name": "มะพร้าว, ขูด",
         "English_name": "Coconut meat, grated",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "326"
             },
@@ -84251,7 +84155,7 @@
         "Thai_name": "แซนวิชสเปรด",
         "English_name": "Sandwich spread",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "480"
             },
@@ -85170,7 +85074,7 @@
         "Thai_name": "น้ำสลัด, เทาซัน ไอร์แลนด์ เดรสซิ่ง",
         "English_name": "Salad dressing, thousand island",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "410"
             },
@@ -85227,7 +85131,7 @@
         "Thai_name": "เนยขาว",
         "English_name": "Shortening",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "872"
             },
@@ -85406,7 +85310,7 @@
         "Thai_name": "บัตเตอร์สเปรด (ชนิดเค็ม) (ผลิตภัณฑ์สำหรับทาขนมปังและทำเบเกอรี่)",
         "English_name": "Butter Spread (Salted)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "626"
             },
@@ -85431,7 +85335,7 @@
         "Thai_name": "บัตเตอร์สเปรด (ชนิดจืด) (ผลิตภัณฑ์เนยสำหรับทาขนมปังและทำเบเกอรี่)",
         "English_name": "Butter Spread (Unsalted)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "721"
             },
@@ -85627,7 +85531,7 @@
         "Thai_name": "ขนมมาร์เมลโล, สอดไส้ช็อกโกแลต",
         "English_name": "Mashmello, chocolate filled",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "438"
             },
@@ -85684,7 +85588,7 @@
         "Thai_name": "น้ำตาลทรายแดง",
         "English_name": "Sugar cane, brown",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "386"
             },
@@ -85737,7 +85641,7 @@
         "Thai_name": "น้ำตาลปี๊บ (น้ำตาลหลอม)",
         "English_name": "Sugar cane, paste",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "364"
             },
@@ -85798,7 +85702,7 @@
         "Thai_name": "น้ำตาลปี๊บ, ผสม",
         "English_name": "Sugar coconut, paste, mixed",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "376"
             },
@@ -85940,7 +85844,7 @@
         "Thai_name": "แบะแซ",
         "English_name": "Glucose syrup",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "374"
             },
@@ -85969,7 +85873,7 @@
         "Thai_name": "ลูกอม, กลิ่นบลูเบอร์รี่",
         "English_name": "Candy, blueberry flavoured",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "192"
             },
@@ -85982,10 +85886,6 @@
                 "value": "48.00"
             }
         }
-    },
-    {
-        "food_id": 1397,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1397"
     },
     {
         "food_id": 1398,
@@ -86137,10 +86037,7 @@
             }
         }
     },
-    {
-        "food_id": 1400,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1400"
-    },
+   
     {
         "food_id": 1401,
         "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1401",
@@ -86148,7 +86045,7 @@
         "Thai_name": "เครื่องดื่มนมถั่วเหลือง, ผสมไวท์มอลต์",
         "English_name": "Beverage, soybean, milk, with white malt",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "424"
             },
@@ -86189,7 +86086,7 @@
         "Thai_name": "เครื่องดื่มนมถั่วเหลือง, เสริมช็อกโกมอลต์",
         "English_name": "Beverage, soybean, milk, with chocolate and malt",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "433"
             },
@@ -86683,7 +86580,7 @@
                 "unit": "g/mL",
                 "value": "1.064"
             },
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "57"
             },
@@ -86744,7 +86641,7 @@
         "Thai_name": "น้ำฝรั่ง 25%, ต่อ 100 มล.",
         "English_name": "Juice, guava, 25%, per 100 mL",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "37"
             },
@@ -87109,7 +87006,7 @@
                 "unit": "g/mL",
                 "value": "1.040"
             },
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "37"
             },
@@ -87949,7 +87846,7 @@
         "Thai_name": "แซนวิช, ปลา",
         "English_name": "Sandwiches, fish",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "294"
             },
@@ -88056,7 +87953,7 @@
         "Thai_name": "เบอร์เกอร์, เบคอน, ดับเบิลชีส",
         "English_name": "Burger, bacon with double cheese",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "309"
             },
@@ -88089,7 +87986,7 @@
         "Thai_name": "พิซซ่า, ซุปเปอร์สุพรีม",
         "English_name": "Pizza, super supreme",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "255"
             },
@@ -88187,7 +88084,7 @@
         "Thai_name": "พิซซ่า, ทะเล, ชนิดหนา",
         "English_name": "Pizza, seafood, thick crust",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "251"
             },
@@ -88337,7 +88234,7 @@
         "Thai_name": "พิซซ่า, ฮาวายเอี้ยน, ชนิดหนา",
         "English_name": "Pizza, Hawaiian, thick crust",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "245"
             },
@@ -89416,7 +89313,7 @@
         "Thai_name": "แกงกะหรี่, เนื้อ",
         "English_name": "Curry, yellow (Kari), beef",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "173"
             },
@@ -89481,7 +89378,7 @@
         "Thai_name": "แกงขนุน",
         "English_name": "Curry, young jackfruit",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "62"
             },
@@ -89550,7 +89447,7 @@
         "Thai_name": "แกงขี้เหล็ก (ใบและดอก)",
         "English_name": "Curry, cassia leaves and flowers",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "125"
             },
@@ -89862,7 +89759,7 @@
         "Thai_name": "แกงเขียวหวานหมู",
         "English_name": "Curry, green, pork",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "93"
             },
@@ -90000,7 +89897,7 @@
         "Thai_name": "แกงไตปลา",
         "English_name": "Curry, fermented fish viscera, southern style",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "46"
             },
@@ -90069,7 +89966,7 @@
         "Thai_name": "แกงบอน",
         "English_name": "Curry, Gaeng-bon",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "39"
             },
@@ -90641,7 +90538,7 @@
         "Thai_name": "แกงมัสมั่น, เนื้อ",
         "English_name": "Curry, Mat-sa-man, beef",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "199"
             },
@@ -90811,7 +90708,7 @@
         "Thai_name": "แกงหมูชะมวง",
         "English_name": "Gaeng-moo-chamoung",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "197"
             },
@@ -90880,7 +90777,7 @@
         "Thai_name": "แกงหอยขม, ภาคกลาง",
         "English_name": "Curry, river snail, central style",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "130"
             },
@@ -90949,7 +90846,7 @@
         "Thai_name": "แกงหอยขม, ภาคอีสาน",
         "English_name": "Curry, river snail, northeastern style",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "45"
             },
@@ -91087,7 +90984,7 @@
         "Thai_name": "แกงเหลืองใส่ปลา",
         "English_name": "Soup, spicy, yellow (turmeric), with fish, southern style",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "44"
             },
@@ -91152,7 +91049,7 @@
         "Thai_name": "แกงอ่อมเนื้อ",
         "English_name": "Soup, spicy (Gaeng Oom) with beef, northen style",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "55"
             },
@@ -91217,7 +91114,7 @@
         "Thai_name": "แกงอ่อมปลา",
         "English_name": "Soup, spicy (Gaeng Oom) with fish, northen style",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "53"
             },
@@ -91644,7 +91541,7 @@
         "Thai_name": "ซุปหน่อไม้",
         "English_name": "Bamboo shoot salad, northeastern style",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "33"
             },
@@ -91701,7 +91598,7 @@
         "Thai_name": "ซุปหางวัว",
         "English_name": "Soup, beef tail",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "85"
             },
@@ -93162,7 +93059,7 @@
         "Thai_name": "ลาบเลือด, อีสาน",
         "English_name": "Beef-blood salad, northeastern style",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "99"
             },
@@ -93227,7 +93124,7 @@
         "Thai_name": "ลาบอีสาน (ลาบเนื้อ)",
         "English_name": "Meat salad, Northeastern style (Lab-nhua)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "122"
             },
@@ -93300,7 +93197,7 @@
         "Thai_name": "สตูไก่",
         "English_name": "Chicken stew",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "122"
             },
@@ -93357,7 +93254,7 @@
         "Thai_name": "สตูเนื้อ",
         "English_name": "Beef stew",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "135"
             },
@@ -93653,7 +93550,7 @@
         "Thai_name": "ส้มตำ, ปู-กุ้ง",
         "English_name": "Papaya salad with crab and dried shrimps (Som-tum Poo-goong)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "85"
             },
@@ -93710,7 +93607,7 @@
         "Thai_name": "ส้มตำ, อีสาน",
         "English_name": "Papaya salad, northeastern style (Som-tum-Isan)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "28"
             },
@@ -94278,7 +94175,7 @@
         "Thai_name": "ก๋วยเตี๋ยว, เนื้อสับ",
         "English_name": "Rice noodles, topped with minced beef in gravy",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "112"
             },
@@ -94335,7 +94232,7 @@
         "Thai_name": "ก๋วยเตี๋ยว, ผัดขี้เมา",
         "English_name": "Rice noodles, fried with pork/chicken and spices (Guay-teaw pad-khee-mow)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "216"
             },
@@ -94485,7 +94382,7 @@
         "Thai_name": "ก๋วยเตี๋ยวแขก (ก๋วยเตี๋ยวแกง)",
         "English_name": "Rice noodles with beef curry Guay-teaw khak)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "131"
             },
@@ -94680,7 +94577,7 @@
         "Thai_name": "ก๋วยเตี๋ยวเส้นใหญ่, ผัดซี่อิ้ว, หมู",
         "English_name": "Guay-teaw-pad see-eiw (Rice noodles, fried with pork, kale, egg and dark soy sauce)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "221"
             },
@@ -94745,7 +94642,7 @@
         "Thai_name": "ก๋วยเตี๋ยวเส้นใหญ่, ราดหน้า, กุ้ง",
         "English_name": "Guay-teaw-rad-nah, goong (Fried rice noodles with dark soy sauce, topped with fried chinese kale, shrimps and gravy)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "84"
             },
@@ -94806,7 +94703,7 @@
         "Thai_name": "ก๋วยเตี๋ยวเส้นใหญ่, ราดหน้า, ไก่/หมู",
         "English_name": "Guay-teaw-rad-nah (Fried rice noodles with dark soy sauce, topped with fried chinese kale, chicken/pork and gravy)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "111"
             },
@@ -95062,7 +94959,7 @@
         "Thai_name": "ขนมจีน, ซาวน้ำ, ภาคกลาง",
         "English_name": "Ka-nom-jeen-sow-nam (Fermented rice noodles, with pineapple, ground shrimp, garlic and coconut milk)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "120"
             },
@@ -95188,7 +95085,7 @@
         "Thai_name": "ขนมจีน, น้ำพริก, ภาคกลาง",
         "English_name": "Ka-nom-jeen-nam-prik (Fermented rice noodles, topped  with peanut curry)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "137"
             },
@@ -95306,7 +95203,7 @@
         "Thai_name": "ขนมจีน, น้ำยา, ปักษ์ใต้",
         "English_name": "Ka-nom-jeen-nam-ya pak-tai (Fermented rice noodles, topped with fish curry (without coconut milk), Southern style)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "85"
             },
@@ -95363,7 +95260,7 @@
         "Thai_name": "ขนมผักกาด",
         "English_name": "Ka-nom-pak-kad (Radish rice cake, fried with egg and mungbean sprout)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "200"
             },
@@ -96493,7 +96390,7 @@
         "Thai_name": "ข้าวผัดหมู",
         "English_name": "Fried rice with pork, vegetable and egg",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "144"
             },
@@ -96555,7 +96452,7 @@
         "food_id": 1555,
         "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1555",
         "Food_Code": "T59",
-        "Thai_name": "ข้าวมัน, ไก่ต้ม",
+        "Thai_name": "ข้าวมันไก่ต้ม",
         "English_name": "Khao-mun-kai-tom (rice cooked in chicken broth, topped with boiled chicken)",
         "nutrition": {
             "food_calories": {
@@ -96640,7 +96537,7 @@
         "food_id": 1556,
         "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1556",
         "Food_Code": "T206",
-        "Thai_name": "ข้าวมัน, ไก่ทอด",
+        "Thai_name": "ข้าวมันไก่ทอด",
         "English_name": "Khao-mun-kai-tod (rice cooked in chicken broth,  topped with deep-fried chicken)",
         "nutrition": {
             "food_calories": {
@@ -96919,7 +96816,7 @@
         "Thai_name": "ข้าวราดแกงมัสหมั่นเนื้อ",
         "English_name": "Rice and beef matsaman curry",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "128"
             },
@@ -96964,7 +96861,7 @@
         "Thai_name": "ข้าวราดไก่ผัดใบกะเพรา",
         "English_name": "Rice and stir fried chicken with holy basil leaves",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "188"
             },
@@ -97126,7 +97023,7 @@
         "Thai_name": "ข้าวราดผัดเครื่องในใส่ขิง",
         "English_name": "Rice with stir-fried chicken organ and ginger",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "176"
             },
@@ -97341,7 +97238,7 @@
         "Thai_name": "ข้าวหมก (เฉพาะข้าว)",
         "English_name": "Rice cooked with curry powder",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "176"
             },
@@ -97549,7 +97446,7 @@
         "Thai_name": "เต้าคั่ว",
         "English_name": "Thai noodle salad (Tao Khao)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "163"
             },
@@ -97602,7 +97499,7 @@
         "Thai_name": "บะจ่าง",
         "English_name": "Zongzi (Pyramid-shaped dumplings made by wrapping glutinous rice in bamboo leaves/reed leaves )",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "228"
             },
@@ -97757,7 +97654,7 @@
         "Thai_name": "บะหมี่, หมูแดง, แห้ง",
         "English_name": "Wheat noodle (Ba-mee) with roasted pork (without soup)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "231"
             },
@@ -97863,7 +97760,7 @@
         "Thai_name": "เส้นเล็ก, เนื้อสด, น้ำ",
         "English_name": "Rice noodles, small size, with beef and soup",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "77"
             },
@@ -97994,7 +97891,7 @@
         "Thai_name": "เส้นเล็ก, ลูกชิ้นเนื้อวัว, เนื้อสด-เปื่อย, น้ำ",
         "English_name": "Rice noodles, small size, with beef ball, beef, stewed beef and soup",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "79"
             },
@@ -98055,7 +97952,7 @@
         "Thai_name": "เส้นเล็ก, ลูกชิ้นเนื้อวัว, เนื้อสด-เปื่อย, แห้ง",
         "English_name": "Rice noodles, small size, with beef ball, beef and stewed beef (wihout soup)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "157"
             },
@@ -98120,7 +98017,7 @@
         "Thai_name": "เส้นเล็ก, ลูกชิ้นเนื้อวัว, แห้ง",
         "English_name": "Rice noodles, small size, with beef ball (wihout soup)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "153"
             },
@@ -98177,7 +98074,7 @@
         "Thai_name": "เส้นเล็ก, หมู, แห้ง",
         "English_name": "Rice noodles, small size, with pork (wihout soup)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "209"
             },
@@ -98413,7 +98310,7 @@
         "Thai_name": "เส้นหมี่, เนื้อสด-เปื่อย, น้ำ",
         "English_name": "Rice noodles, fine thread, with beef and stewed beef and soup",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "87"
             },
@@ -98470,7 +98367,7 @@
         "Thai_name": "เส้นหมี่, ผัดซีอิ้ว",
         "English_name": "Fried rice noodles (fine thread) with pork, egg and soysauce",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "164"
             },
@@ -98661,7 +98558,7 @@
         "Thai_name": "เส้นหมี่, ลูกชิ้นเนื้อวัว, แห้ง",
         "English_name": "Rice noodles, fine thread, with beef ball (without soup)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "152"
             },
@@ -98726,7 +98623,7 @@
         "Thai_name": "เส้นใหญ่, ลูกชิ้นเนื้อวัว, น้ำ",
         "English_name": "Rice noodles, big size, with beef ball and soup",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "61"
             },
@@ -98783,7 +98680,7 @@
         "Thai_name": "เส้นใหญ่, ลูกชิ้นเนื้อวัว, เนื้อสด-เปื่อย, น้ำ",
         "English_name": "Rice noodles, big size, with beef ball, beef and stewed beef and soup",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "68"
             },
@@ -98828,7 +98725,7 @@
         "Thai_name": "เส้นใหญ่, ลูกชิ้นเนื้อวัว, เนื้อสด-เปื่อย, แห้ง",
         "English_name": "Rice noodles, big size, with beef ball, beef and stewed beef",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "163"
             },
@@ -99360,7 +99257,7 @@
         "Thai_name": "ขนมโก๋",
         "English_name": "Ka-nom-ko",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "425"
             },
@@ -99951,7 +99848,7 @@
         "Thai_name": "ขนมบ้าบิ่น",
         "English_name": "Ka-nom-ba-bin (mixture of glutinous rice flour and egg baked with grated coconut)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "372"
             },
@@ -99984,7 +99881,7 @@
         "Thai_name": "ขนมฝักบัว",
         "English_name": "Ka-nom-phug-bua (rice cake, deep fried)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "341"
             },
@@ -100025,7 +99922,7 @@
         "Thai_name": "ขนมลา",
         "English_name": "Ka-nom-la",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "439"
             },
@@ -100078,7 +99975,7 @@
         "Thai_name": "ขนมใส่ไส้/สอดไส้",
         "English_name": "Ka-nom-sai-sai/sod-sai (filled coconut cream)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "224"
             },
@@ -100660,7 +100557,7 @@
         "Thai_name": "เฉาก๊วย, สูตรต่างๆ",
         "English_name": "Grass jelly (Chao kuai)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "16"
             },
@@ -100884,7 +100781,7 @@
         "Thai_name": "เต้าฮวย",
         "English_name": "Soybean curd, soft (Tau-huay)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "74"
             },
@@ -100945,7 +100842,7 @@
         "Thai_name": "เต้าฮวย, ชนิดแคลเซียมสูง",
         "English_name": "Soybean curd, soft (Tau-huay), high calcium",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "48"
             },
@@ -101376,7 +101273,7 @@
         "Thai_name": "เผือกกวน",
         "English_name": "Taro pudding",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "255"
             },
@@ -103271,7 +103168,7 @@
         "Thai_name": "ขนมเบื้องไทย, ไส้เค็ม",
         "English_name": "Ka-nom buang Thai sai khem (crispy rice flour sheet with prawn and grated coconut filling)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "382"
             },
@@ -103377,7 +103274,7 @@
         "Thai_name": "ข้าวเกรียบปากหม้อไส้หมู",
         "English_name": "Khao-kriab-pak-mor sai-moo (steamed rice skin dumplings, minced pork filled)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "107"
             },
@@ -103479,7 +103376,7 @@
         "Thai_name": "ข้าวต้มมัด",
         "English_name": "Kao-tom-mud (steamed glutinous rice with black bean and banana filling)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "217"
             },
@@ -104313,7 +104210,7 @@
         "Thai_name": "ข้าวเหนียวปิ้ง, ไส้เผือก",
         "English_name": "Khao-niao-ping (sticky rice mixed with coconut milk, filled with taro, wrapped in banana leaf, grilled)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "250"
             },
@@ -104362,7 +104259,7 @@
         "Thai_name": "ข้าวเหนียวปิ้ง, ไส้มัน",
         "English_name": "Khao-niao-ping (sticky rice mixed with coconut milk, filled with sweet potato, wrapped in banana leaf, grilled)",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "252"
             },
@@ -104469,10 +104366,7 @@
             }
         }
     },
-    {
-        "food_id": 1689,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1689"
-    },
+    
     {
         "food_id": 1690,
         "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1690",
@@ -104480,7 +104374,7 @@
         "Thai_name": "เต้าหู้, ทอด",
         "English_name": "Soybean curd (tofu), fried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "419"
             },
@@ -105743,7 +105637,7 @@
         "Thai_name": "ปลาหมึก, เส้น, ปรุงรส",
         "English_name": "Squid, strip, seasoned",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "304"
             },
@@ -106397,7 +106291,7 @@
         "Thai_name": "มะตะบะ, ไส้กล้วย",
         "English_name": "Murtabak, banana",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "237"
             },
@@ -106462,7 +106356,7 @@
         "Thai_name": "มะตะบะ, ไส้ไก่",
         "English_name": "Murtabak, chicken",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "264"
             },
@@ -106527,7 +106421,7 @@
         "Thai_name": "มะตะบะ, ไส้เนื้อ",
         "English_name": "Murtabak, beef",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "281"
             },
@@ -106592,7 +106486,7 @@
         "Thai_name": "มะตะบะ, ไส้ผลไม้รวม",
         "English_name": "Murtabak, mixed fruits",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "255"
             },
@@ -107055,7 +106949,7 @@
         "Thai_name": "มันสำปะหลัง, ปั้นกลม, ปิ้ง",
         "English_name": "Cassava, ball, baked",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "231"
             },
@@ -108512,7 +108406,7 @@
         "Thai_name": "วาฟเฟิล",
         "English_name": "Waffle",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "396"
             },
@@ -108813,7 +108707,7 @@
         "Thai_name": "ไส้กรอก (กินกับปลาแนม)",
         "English_name": "Sausages, traditional Thai style",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "451"
             },
@@ -108931,7 +108825,7 @@
         "Thai_name": "ไส้กรอก, อีสาน",
         "English_name": "Sausage, rice and pork, fermented, northeastern style",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "468"
             },
@@ -109134,7 +109028,7 @@
         "Thai_name": "จั๊กจั่น",
         "English_name": "Cicada",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "133"
             },
@@ -109195,7 +109089,7 @@
         "Thai_name": "จิ้งโกร่ง",
         "English_name": "Cricket, giant",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "188"
             },
@@ -109337,7 +109231,7 @@
         "Thai_name": "จิโปม, ทอด",
         "English_name": "Cricket, short tail, deep-fried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "557"
             },
@@ -109573,7 +109467,7 @@
         "Thai_name": "ตั๊กแตนทอด",
         "English_name": "Locust, deep-fried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "609"
             },
@@ -109618,7 +109512,7 @@
         "Thai_name": "ตั๊กแตนปาทังก้า, ทอด",
         "English_name": "Bombay locust, deep-fried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "476"
             },
@@ -109732,7 +109626,7 @@
         "Thai_name": "ตัวต่อ",
         "English_name": "Hornet, young",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "141"
             },
@@ -109789,7 +109683,7 @@
         "Thai_name": "ตัวต่อ, แก่",
         "English_name": "Hornet, mature",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "111"
             },
@@ -109866,7 +109760,7 @@
         "Thai_name": "ตัวต่อ, อ่อน",
         "English_name": "Hornet, pupae",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "140"
             },
@@ -110921,7 +110815,7 @@
         "Thai_name": "หนอนไม้ไผ่, ดิบ",
         "English_name": "Bamboo caterpillar",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "230"
             },
@@ -111010,7 +110904,7 @@
         "Thai_name": "หนอนไม้ไผ่, ทอด",
         "English_name": "Bamboo caterpillar, deep-fried",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "644"
             },
@@ -111057,582 +110951,13 @@
         }
     },
     {
-        "food_id": 1789,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1789"
-    },
-    {
-        "food_id": 1790,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1790"
-    },
-    {
-        "food_id": 1791,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1791"
-    },
-    {
-        "food_id": 1792,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1792"
-    },
-    {
-        "food_id": 1793,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1793"
-    },
-    {
-        "food_id": 1794,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1794"
-    },
-    {
-        "food_id": 1795,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1795"
-    },
-    {
-        "food_id": 1796,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1796"
-    },
-    {
-        "food_id": 1797,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1797"
-    },
-    {
-        "food_id": 1798,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1798"
-    },
-    {
-        "food_id": 1799,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1799"
-    },
-    {
-        "food_id": 1800,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1800"
-    },
-    {
-        "food_id": 1801,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1801"
-    },
-    {
-        "food_id": 1802,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1802"
-    },
-    {
-        "food_id": 1803,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1803"
-    },
-    {
-        "food_id": 1804,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1804"
-    },
-    {
-        "food_id": 1805,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1805"
-    },
-    {
-        "food_id": 1806,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1806"
-    },
-    {
-        "food_id": 1807,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1807"
-    },
-    {
-        "food_id": 1808,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1808"
-    },
-    {
-        "food_id": 1809,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1809"
-    },
-    {
-        "food_id": 1810,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1810"
-    },
-    {
-        "food_id": 1811,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1811"
-    },
-    {
-        "food_id": 1812,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1812"
-    },
-    {
-        "food_id": 1813,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1813"
-    },
-    {
-        "food_id": 1814,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1814"
-    },
-    {
-        "food_id": 1815,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1815"
-    },
-    {
-        "food_id": 1816,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1816"
-    },
-    {
-        "food_id": 1817,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1817"
-    },
-    {
-        "food_id": 1818,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1818"
-    },
-    {
-        "food_id": 1819,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1819"
-    },
-    {
-        "food_id": 1820,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1820"
-    },
-    {
-        "food_id": 1821,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1821"
-    },
-    {
-        "food_id": 1822,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1822"
-    },
-    {
-        "food_id": 1823,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1823"
-    },
-    {
-        "food_id": 1824,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1824"
-    },
-    {
-        "food_id": 1825,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1825"
-    },
-    {
-        "food_id": 1826,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1826"
-    },
-    {
-        "food_id": 1827,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1827"
-    },
-    {
-        "food_id": 1828,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1828"
-    },
-    {
-        "food_id": 1829,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1829"
-    },
-    {
-        "food_id": 1830,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1830"
-    },
-    {
-        "food_id": 1831,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1831"
-    },
-    {
-        "food_id": 1832,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1832"
-    },
-    {
-        "food_id": 1833,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1833"
-    },
-    {
-        "food_id": 1834,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1834"
-    },
-    {
-        "food_id": 1835,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1835"
-    },
-    {
-        "food_id": 1836,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1836"
-    },
-    {
-        "food_id": 1837,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1837"
-    },
-    {
-        "food_id": 1838,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1838"
-    },
-    {
-        "food_id": 1839,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1839"
-    },
-    {
-        "food_id": 1840,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1840"
-    },
-    {
-        "food_id": 1841,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1841"
-    },
-    {
-        "food_id": 1842,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1842"
-    },
-    {
-        "food_id": 1843,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1843"
-    },
-    {
-        "food_id": 1844,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1844"
-    },
-    {
-        "food_id": 1845,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1845"
-    },
-    {
-        "food_id": 1846,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1846"
-    },
-    {
-        "food_id": 1847,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1847"
-    },
-    {
-        "food_id": 1848,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1848"
-    },
-    {
-        "food_id": 1849,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1849"
-    },
-    {
-        "food_id": 1850,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1850"
-    },
-    {
-        "food_id": 1851,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1851"
-    },
-    {
-        "food_id": 1852,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1852"
-    },
-    {
-        "food_id": 1853,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1853"
-    },
-    {
-        "food_id": 1854,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1854"
-    },
-    {
-        "food_id": 1855,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1855"
-    },
-    {
-        "food_id": 1856,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1856"
-    },
-    {
-        "food_id": 1857,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1857"
-    },
-    {
-        "food_id": 1858,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1858"
-    },
-    {
-        "food_id": 1859,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1859"
-    },
-    {
-        "food_id": 1860,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1860"
-    },
-    {
-        "food_id": 1861,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1861"
-    },
-    {
-        "food_id": 1862,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1862"
-    },
-    {
-        "food_id": 1863,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1863"
-    },
-    {
-        "food_id": 1864,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1864"
-    },
-    {
-        "food_id": 1865,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1865"
-    },
-    {
-        "food_id": 1866,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1866"
-    },
-    {
-        "food_id": 1867,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1867"
-    },
-    {
-        "food_id": 1868,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1868"
-    },
-    {
-        "food_id": 1869,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1869"
-    },
-    {
-        "food_id": 1870,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1870"
-    },
-    {
-        "food_id": 1871,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1871"
-    },
-    {
-        "food_id": 1872,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1872"
-    },
-    {
-        "food_id": 1873,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1873"
-    },
-    {
-        "food_id": 1874,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1874"
-    },
-    {
-        "food_id": 1875,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1875"
-    },
-    {
-        "food_id": 1876,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1876"
-    },
-    {
-        "food_id": 1877,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1877"
-    },
-    {
-        "food_id": 1878,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1878"
-    },
-    {
-        "food_id": 1879,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1879"
-    },
-    {
-        "food_id": 1880,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1880"
-    },
-    {
-        "food_id": 1881,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1881"
-    },
-    {
-        "food_id": 1882,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1882"
-    },
-    {
-        "food_id": 1883,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1883"
-    },
-    {
-        "food_id": 1884,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1884"
-    },
-    {
-        "food_id": 1885,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1885"
-    },
-    {
-        "food_id": 1886,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1886"
-    },
-    {
-        "food_id": 1887,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1887"
-    },
-    {
-        "food_id": 1888,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1888"
-    },
-    {
-        "food_id": 1889,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1889"
-    },
-    {
-        "food_id": 1890,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1890"
-    },
-    {
-        "food_id": 1891,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1891"
-    },
-    {
-        "food_id": 1892,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1892"
-    },
-    {
-        "food_id": 1893,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1893"
-    },
-    {
-        "food_id": 1894,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1894"
-    },
-    {
-        "food_id": 1895,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1895"
-    },
-    {
-        "food_id": 1896,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1896"
-    },
-    {
-        "food_id": 1897,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1897"
-    },
-    {
-        "food_id": 1898,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1898"
-    },
-    {
-        "food_id": 1899,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1899"
-    },
-    {
-        "food_id": 1900,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1900"
-    },
-    {
-        "food_id": 1901,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1901"
-    },
-    {
-        "food_id": 1902,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1902"
-    },
-    {
-        "food_id": 1903,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1903"
-    },
-    {
-        "food_id": 1904,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1904"
-    },
-    {
-        "food_id": 1905,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1905"
-    },
-    {
-        "food_id": 1906,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1906"
-    },
-    {
-        "food_id": 1907,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1907"
-    },
-    {
-        "food_id": 1908,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1908"
-    },
-    {
-        "food_id": 1909,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1909"
-    },
-    {
-        "food_id": 1910,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1910"
-    },
-    {
-        "food_id": 1911,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1911"
-    },
-    {
-        "food_id": 1912,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1912"
-    },
-    {
-        "food_id": 1913,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1913"
-    },
-    {
-        "food_id": 1914,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1914"
-    },
-    {
-        "food_id": 1915,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1915"
-    },
-    {
-        "food_id": 1916,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1916"
-    },
-    {
-        "food_id": 1917,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1917",
-        "Food_Code": "B1",
-        "Thai_name": "กระจับ, ต้ม",
-        "English_name": "Water caltrops, boiled",
-        "nutrition": {
-            "Total energy - by calculation": {
-                "unit": "kcal",
-                "value": "135"
-            },
-            "Moisture": {
-                "unit": "g",
-                "value": "64.8"
-            },
-            "food_protein": {
-                "unit": "g",
-                "value": "3.60"
-            },
-            "food_fat": {
-                "unit": "g",
-                "value": "0.10"
-            },
-            "Carbohydrate, total": {
-                "unit": "g",
-                "value": "33.00"
-            },
-            "Ash": {
-                "unit": "g",
-                "value": "1.50"
-            },
-            "Calcium": {
-                "unit": "mg",
-                "value": "23"
-            },
-            "Phosphorus": {
-                "unit": "mg",
-                "value": "89"
-            },
-            "Iron": {
-                "unit": "mg",
-                "value": "4.60"
-            },
-            "Thiamin": {
-                "unit": "mg",
-                "value": "0.27"
-            },
-            "Riboflavin": {
-                "unit": "mg",
-                "value": "0.04"
-            },
-            "Vitamin C": {
-                "unit": "mg",
-                "value": "9"
-            }
-        }
-    },
-    {
         "food_id": 1918,
         "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=1918",
         "Food_Code": "B2",
         "Thai_name": "กลอย, ดิบ",
         "English_name": "Yam, wild, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "143"
             },
@@ -112183,7 +111508,7 @@
         "Thai_name": "มันเทศ, เนื้อสีม่วงแดง, ดิบ",
         "English_name": "Sweet potato, purple-red flesh, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "76"
             },
@@ -112354,7 +111679,7 @@
         "Thai_name": "มันฝรั่ง, ดิบ",
         "English_name": "Potato, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "70"
             },
@@ -112419,7 +111744,7 @@
         "Thai_name": "มันสำปะหลัง, ดิบ",
         "English_name": "Cassava, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "137"
             },
@@ -112541,7 +111866,7 @@
         "Thai_name": "ข้าวเกรียบกุ้ง, ดิบ",
         "English_name": "Crackers, shrimp, raw",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "351"
             },
@@ -112761,7 +112086,7 @@
         "Thai_name": "แป้งสาคู",
         "English_name": "Sago flour",
         "nutrition": {
-            "Total energy - by calculation": {
+            "food_calories": {
                 "unit": "kcal",
                 "value": "342"
             },
@@ -113581,22 +112906,7 @@
             }
         }
     },
-    {
-        "food_id": 2019,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=2019"
-    },
-    {
-        "food_id": 2020,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=2020"
-    },
-    {
-        "food_id": 2021,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=2021"
-    },
-    {
-        "food_id": 2022,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=2022"
-    },
+   
     {
         "food_id": 2023,
         "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=2023",
@@ -113876,10 +113186,7 @@
             }
         }
     },
-    {
-        "food_id": 2026,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=2026"
-    },
+   
     {
         "food_id": 2027,
         "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=2027",
@@ -114976,18 +114283,7 @@
             }
         }
     },
-    {
-        "food_id": 2039,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=2039"
-    },
-    {
-        "food_id": 2040,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=2040"
-    },
-    {
-        "food_id": 2041,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=2041"
-    },
+   
     {
         "food_id": 2042,
         "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=2042",
@@ -117710,9 +117006,5 @@
                 "value": "12"
             }
         }
-    },
-    {
-        "food_id": 2073,
-        "url": "https://inmu2.mahidol.ac.th/thaifcd/search_food_by_name_result.php?food_id=2073"
     }
 ]
