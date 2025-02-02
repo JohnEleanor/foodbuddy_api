@@ -1,4 +1,5 @@
-from ultralytics import YOLO # type: ignore
+from ultralytics import YOLO
+from app.utils.db_utils import connect_db
 import json
 import os
 

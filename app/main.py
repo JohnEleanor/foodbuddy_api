@@ -150,7 +150,38 @@ def search_from_database(request: FoodRequest):
 
 
    
-    
+@app.post("/find_food_db")
+def find_food_db(request: FoodRequest):
+    name = request.name # รับชื่ออาหารจาก request body
+    if (not name):
+        return {"status": "error", "message": "Missing parameter"}
+    connection = connect_db()
+    if connection:
+        data = []
+        try:
+            with connection.cursor() as cursor:
+                cursor.execute(f"SELECT * FROM food_menu WHERE thai_name LIKE '%{name}%' OR eng_name LIKE '%{name}%' ")
+                result = cursor.fetchall()
+                for row in result:
+                    data.append({
+                        "id": str(row[0]),
+                        "thai_name": row[1],
+                        "eng_name": row[2],
+                        "nutrition": {
+                            "calories" : row[4],
+                            "protein" : row[5],
+                            "carbohydrate" : row[6],
+                            "fat" : row[7],
+                        }
+                    })
+                return {"status": "ok", "message": "Find Successfully", "result": data}
+        except Exception as e:
+            return {"status": "error", "message": f"An unexpected error occurred: {e}"}
+        finally:
+            close_db(connection)
+    else:
+        return {"status": "error", "message": "Connection failed"}
+
     
 
 if __name__ == "__main__":

@@ -46,3 +46,4 @@ def get_food_data(param: str):
     except Exception as e:
         print(f"Error: {e}")
         return None
+    
