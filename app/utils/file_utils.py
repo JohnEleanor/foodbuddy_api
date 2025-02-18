@@ -11,3 +11,8 @@ def save_image(file_id, line_bot_blob_api):
         f.write(file_content)
         f.close()
     return file_name
+
+
+def remove_image(file_name):
+    os.remove(file_name)
+    print(f"Removed: {file_name}")

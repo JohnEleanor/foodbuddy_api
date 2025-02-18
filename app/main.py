@@ -4,10 +4,8 @@ from fastapi import FastAPI, UploadFile,Request,Header,  File, HTTPException, Qu
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from linebot.v3.exceptions import InvalidSignatureError
-# from bs4 import BeautifulSoup
-import requests
 import json
-from pydantic import BaseModel
+
 
 
 from dotenv import load_dotenv
@@ -20,6 +18,7 @@ from app.handlers.line_handler import handler
 from app.services.image_service import predict_image
 from app.utils.db_utils import connect_db, close_db
 from app.services.find_food import get_food_data
+# from app.models.line_models import FoodRequest
 
 import os
 import shutil
@@ -68,9 +67,10 @@ async def upload_image(image: UploadFile = File(...)):
             image = file.write(await image.read())
             if (image):
                 predict_result = predict_image(file_location)
-                print(predict_result)
+                # print(predict_result)
                 if (predict_result):
                     file.close() # ปิดไฟล์
+                    print(file_location)
                     os.remove(file_location) # ลบไฟล์
                     return {"message": "Upload successful", "result": predict_result}
             else:
@@ -96,12 +96,13 @@ async def callback(request: Request, x_line_signature: str = Header(None)):
 
 # --------------------------------------------------------
 # Pydantic model สำหรับ request body
+from pydantic import BaseModel
 class FoodRequest(BaseModel):
     name: str  # ชื่ออาหารที่ต้องการค้นหา
 
 
 @app.post("/search_by_name")
-def search_food(request: FoodRequest):
+async def search_food(request: FoodRequest):
     """
     ค้นหาข้อมูลอาหารตามชื่อจาก ThaiFCD และดึง food_id
     """
@@ -137,11 +138,12 @@ def search_food(request: FoodRequest):
         return {"message": "ไม่พบข้อมูลสำหรับชื่ออาหารนี้"}
 
 
-class FoodRequest(BaseModel):
-    name: str  # ชื่ออาหารที่ต้องการค้นหา 
 
 @app.post("/search_food")
 def search_from_database(request: FoodRequest):
+    """
+        ค้นหาข้อมูลอาหารตามชื่อจาก ThaiFCD 
+    """
     name = request.name  # รับชื่ออาหารจาก request body
 
     data = get_food_data(name)

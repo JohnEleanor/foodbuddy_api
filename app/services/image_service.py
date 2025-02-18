@@ -1,12 +1,33 @@
 from ultralytics import YOLO
 from app.utils.db_utils import connect_db
-import json
-import os
 
 
-
+names = {
+    'BeefSteak': 'สเต็กเนื้อ',
+    'BeefStew': 'สตูว์เนื้อ',
+    'Bibimbap': 'บิบิมบับ',
+    'Burger': 'เบอร์เกอร์',
+    'Calamari': 'ปลาหมึกทอด',
+    'CarbonaraPasta': 'คาร์โบนาราพาสต้า',
+    'ClearSoupwithTofuandMincedPork': 'ต้มจืดเต้าหู้หมูสับ',
+    'CongeewithCenturyEggandPork': 'ข้าวต้มไข่เยี่ยวม้าและหมู',
+    'CrabOmelette': 'ไข่เจียวปู',
+    'DimSum': 'ติ่มซำ',
+    'FishandChips': 'ปลาและมันฝรั่งทอด',
+    'GaengSomCha-OmKai': 'แกงส้มชะอมไข่',
+    'GreenCurryChicken': 'แกงเขียวหวานไก่',
+    'GrilledChickenwithStickyRice': 'ไก่ย่างข้าวเหนียว',
+    'GrilledPorkSkewers': 'หมูปิ้ง',
+    'HainaneseChickenRice': 'ข้าวมันไก่'
+}
 
 def predict_image(image_path: str):
+
+
+  
+
+
+
     print("[debug] Detecting.. call function")
     result_to_client = []
     model = YOLO("best.pt")
@@ -39,28 +60,26 @@ def predict_image(image_path: str):
             ) 
             return result_to_client
 
-
-        if (name == "greencurry"):
-           result_to_client.append(
-               {
-                   "name": "เเกงเขียวหวาน", 
-                   "confidence": confidence
-                }
-            )
-        elif (name == "red_pork_withRice"):
-            result_to_client.append(
-                {
-                    "name": "ข้าวหมูเเดง",
-                    "confidence": confidence
-                }
-            )
-        elif (name == "stir_fried_basil"):
-            result_to_client.append(
-                {
-                    "name": "ผัดกะเพรา",
-                    "confidence": confidence
-                }
-            )
+        for k, v in names.items():
+            if (name == k):
+                connection = connect_db()
+                try:
+                    with connection.cursor() as cursor:
+                        cursor.execute(f"SELECT * FROM food_nutration WHERE eng_name LIKE '%{k}%' ")
+                        result = cursor.fetchall()
+                        for row in result:
+                            result_to_client.append(
+                                {
+                                    "name": v,
+                                    "confidence": confidence,
+                                    "nutration": row[5],
+                                    "origin" : row[3]
+                                }
+                            )
+                        return result_to_client
+                except Exception as e:
+                    print(f"Error KUB: {e}")
+                    return None
         
 
 

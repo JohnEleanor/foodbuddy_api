@@ -1,10 +1,18 @@
 from linebot.v3.messaging import FlexMessage, FlexContainer
+import json
 
 def create_flex_bubble(image_url, predict_result):
-    print("[debug] Predict Results : ", predict_result)
     percent = round(predict_result[0]['confidence'] * 100, 2)
-    # percent = 100 if predict_result[0]['confidence'] == 0 else round(predict_result[0]['confidence'] * 100, 2)
-    print("[debug] Percent : ", percent)
+    ingredient_json = predict_result[0]['nutration']
+    ingredient_data = json.loads(ingredient_json)  
+
+    calories = ingredient_data['calories']
+    protein = ingredient_data['protein']
+    carbohydrates = ingredient_data['carbohydrates']
+    fat = ingredient_data['fat']
+
+    print(calories, protein, carbohydrates, fat)
+    # print("predict_result = ",predict_result[0]['nutration'])
     bubble_string = f"""
                         {{
                     "type": "bubble",
@@ -25,6 +33,13 @@ def create_flex_bubble(image_url, predict_result):
                                 "weight": "bold",
                                 "size": "xxl",
                                 "margin": "md"
+                            }},
+                            {{
+                                "type": "text",
+                                "text": "เเคลอรี่ {calories} กิโลแคลอรี่",
+                                "weight": "bold",
+                                "color": "#1DB446",
+                                "size": "xl"
                             }},
                             {{
                                 "type": "text",
@@ -114,13 +129,13 @@ def create_flex_bubble(image_url, predict_result):
                                     "contents": [
                                     {{
                                         "type": "text",
-                                        "text": "น้ำตาล",
+                                        "text": "เคลอรี่",
                                         "size": "sm",
                                         "color": "#555555"
                                     }},
                                     {{
                                         "type": "text",
-                                        "text": "3 กรัม",
+                                        "text": "{calories} กรัม",
                                         "size": "sm",
                                         "color": "#111111",
                                         "align": "end"
@@ -139,7 +154,7 @@ def create_flex_bubble(image_url, predict_result):
                                     }},
                                     {{
                                         "type": "text",
-                                        "text": "30 กรัม",
+                                        "text": "{carbohydrates} กรัม",
                                         "size": "sm",
                                         "color": "#111111",
                                         "align": "end"
@@ -158,7 +173,7 @@ def create_flex_bubble(image_url, predict_result):
                                     }},
                                     {{
                                         "type": "text",
-                                        "text": "99 กรัม",
+                                        "text": "{fat} กรัม",
                                         "size": "sm",
                                         "color": "#111111",
                                         "align": "end"
@@ -177,10 +192,22 @@ def create_flex_bubble(image_url, predict_result):
                                     }},
                                     {{
                                         "type": "text",
-                                        "text": "55 กรัม",
+                                        "text": "{protein} กรัม",
                                         "size": "sm",
                                         "color": "#111111",
                                         "align": "end"
+                                    }}
+                                    ]
+                                }},
+                                {{
+                                    "type": "box",
+                                    "layout": "horizontal",
+                                    "contents": [
+                                    {{
+                                        "type": "text",
+                                        "text": "เเละอื่นๆ",
+                                        "size": "sm",
+                                        "color": "#555555"
                                     }}
                                     ]
                                 }}
@@ -213,5 +240,5 @@ def create_flex_bubble(image_url, predict_result):
                     }}
                     }}
     """
-    message = FlexMessage(alt_text="hello", contents=FlexContainer.from_json(bubble_string))
+    message = FlexMessage(alt_text="โภชนาการของคุณ", contents=FlexContainer.from_json(bubble_string))
     return message
