@@ -2,16 +2,18 @@ from linebot.v3.messaging import FlexMessage, FlexContainer
 import json
 
 def create_flex_bubble(image_url, predict_result):
+    print(predict_result)
     percent = round(predict_result[0]['confidence'] * 100, 2)
+    # if (predict_result)
     ingredient_json = predict_result[0]['nutration']
     ingredient_data = json.loads(ingredient_json)  
 
     calories = ingredient_data['calories']
     protein = ingredient_data['protein']
-    carbohydrates = ingredient_data['carbohydrates']
+    carbohydrates = ingredient_data['carbs']
     fat = ingredient_data['fat']
 
-    print(calories, protein, carbohydrates, fat)
+    # print(calories, protein, carbohydrates, fat)
     # print("predict_result = ",predict_result[0]['nutration'])
     bubble_string = f"""
                         {{
@@ -48,6 +50,7 @@ def create_flex_bubble(image_url, predict_result):
                                 "color": "#aaaaaa",
                                 "wrap": true
                             }},
+                           
                             {{
                                 "type": "separator",
                                 "margin": "xxl"
@@ -129,13 +132,13 @@ def create_flex_bubble(image_url, predict_result):
                                     "contents": [
                                     {{
                                         "type": "text",
-                                        "text": "เคลอรี่",
+                                        "text": "แคลอรี่",
                                         "size": "sm",
                                         "color": "#555555"
                                     }},
                                     {{
                                         "type": "text",
-                                        "text": "{calories} กรัม",
+                                        "text": "{calories} กิโลเเคลอรี่",
                                         "size": "sm",
                                         "color": "#111111",
                                         "align": "end"
@@ -215,6 +218,7 @@ def create_flex_bubble(image_url, predict_result):
                             }}
                         ]
                     }},
+                    
                     "footer": {{
                         "type": "box",
                         "layout": "vertical",
@@ -222,13 +226,25 @@ def create_flex_bubble(image_url, predict_result):
                         {{
                             "type": "button",
                             "action": {{
-                            "type": "message",
-                            "label": "เเก้ไขเมนู",
-                            "text": "เเก้ไขเมนู"
+                                "type": "message",
+                                "label": "บันทึก",
+                                "text": "บันทึก"
                             }},
                             "margin": "xs",
                             "height": "sm",
                             "style": "primary"
+                        }},
+                        {{
+                            "type": "button",
+                            "action": {{
+                                "type": "message",
+                                "label": "เเก้ไขเมนู",
+                                "text": "เเก้ไขเมนู"
+                            }},
+                            "margin": "xs",
+                            "height": "sm",
+                            "style": "link"
+                           
                         }}
                         ],
                         "position": "relative"

@@ -45,8 +45,8 @@ def predict_image(image_path: str):
         )
         return result_to_client
     confidence = round(predicted_confidences[0].item(), 2)
-    print("[debug] Result : ", predicted_names) 
-    print("[debug] Confidence : ", confidence)  
+    # print("[debug] Result : ", predicted_names) 
+    # print("[debug] Confidence : ", confidence)  
     
     
     for name in predicted_names:
@@ -65,7 +65,12 @@ def predict_image(image_path: str):
                 connection = connect_db()
                 try:
                     with connection.cursor() as cursor:
-                        cursor.execute(f"SELECT * FROM food_nutration WHERE eng_name LIKE '%{k}%' ")
+                        cursor.execute(f"""
+                                       SELECT *
+FROM food_nutration AS fn
+JOIN food_category AS cat ON fn.category_name = cat.id
+WHERE fn.eng_name LIKE '%{k}%';
+""")
                         result = cursor.fetchall()
                         for row in result:
                             result_to_client.append(
@@ -73,7 +78,8 @@ def predict_image(image_path: str):
                                     "name": v,
                                     "confidence": confidence,
                                     "nutration": row[5],
-                                    "origin" : row[3]
+                                    "origin" : row[3],
+                                    "food_type" : row[7],
                                 }
                             )
                         return result_to_client

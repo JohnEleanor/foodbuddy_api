@@ -1,6 +1,6 @@
 import sys
 import os
-from fastapi import FastAPI, UploadFile,Request,Header,  File, HTTPException, Query
+from fastapi import FastAPI, UploadFile,Request,Header,  File, HTTPException, Query, logger
 from fastapi.responses import JSONResponse
 from fastapi.staticfiles import StaticFiles
 from linebot.v3.exceptions import InvalidSignatureError
@@ -10,6 +10,7 @@ import json
 
 from dotenv import load_dotenv
 
+
 # เพิ่มโฟลเดอร์ app เข้าไปใน sys.path
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
@@ -18,7 +19,7 @@ from app.handlers.line_handler import handler
 from app.services.image_service import predict_image
 from app.utils.db_utils import connect_db, close_db
 from app.services.find_food import get_food_data
-# from app.models.line_models import FoodRequest
+from app.models.line_models import FoodRequest
 
 import os
 import shutil
@@ -33,21 +34,12 @@ def remove_pycache(directory="."):
 
 
 load_dotenv()
-remove_pycache()
+# remove_pycache()
 
 app = FastAPI()
 app.mount("/images", StaticFiles(directory="images"), name="images")
 
-@app.get("/health")
-def health():
-    connection = connect_db()
-    if connection:
-        try:
-            return {"status": "ok", "message": "Connection successful"}
-        finally:
-            close_db(connection)
-    else:
-        return {"status": "error", "message": "Connection failed"}
+
 
 @app.post("/predict")
 async def upload_image(image: UploadFile = File(...)):
@@ -80,12 +72,30 @@ async def upload_image(image: UploadFile = File(...)):
     except Exception as e:
         return JSONResponse(status_code=500, content={"message": f"Upload failed: {str(e)}"})
 
+# ----- dialogflow webhook --------------------------------
+# @app.post("/webhook")
+# async def webhook(request: Request):
+#     # body = await request.body()
+#     data = await request.body()
+#     # print(json.loads(data))
+#     data = json.loads(data)
+
+#     print(data["queryResult"]["queryText"])
+
+#     print(data["originalDetectIntentRequest"])
+        
+#     return {"message": "Hello"} 
+
+# ----- line webhook --------------------------------
 @app.post("/callback")
 async def callback(request: Request, x_line_signature: str = Header(None)):
     body = await request.body()
     body_str = body.decode('utf-8')
     try:
+        # print(body_str)
+        # print(x_line_signature)
         handler.handle(body_str, x_line_signature)
+        print(body_str)
         print("Received frome LINE")
     except InvalidSignatureError:
         print("Invalid signature. Please check your channel access token/channel secret.")
@@ -93,12 +103,42 @@ async def callback(request: Request, x_line_signature: str = Header(None)):
 
     return 'OK'
 
-
 # --------------------------------------------------------
-# Pydantic model สำหรับ request body
-from pydantic import BaseModel
-class FoodRequest(BaseModel):
-    name: str  # ชื่ออาหารที่ต้องการค้นหา
+
+@app.get("/health")
+def health():
+    connection = connect_db()
+    if connection:
+        try:
+            return {"status": "ok", "message": "Connection successful"}
+        finally:
+            close_db(connection)
+    else:
+        return {"status": "error", "message": "Connection failed"}
+
+@app.post("/save_eat_history")
+async def save_eat_history(request: Request):
+    """
+        บันทึกประวัติการทานอาหาร\n
+        calories: แคลอรี่\n
+        protein: โปรตีน\n
+        carbs: คาร์โบไฮเดรต\n
+        fat: ไขมัน\n
+        food_name: ชื่ออาหาร\n
+        user_id: ไลน์ไอดี
+        food_type : ประเภทอาหาร
+    """
+    data = await request.json()
+    print(data)
+    print(data["calories"])
+    print(data["protein"])
+    print(data["carbs"])
+    print(data["fat"])
+    print(data["food_name"])
+    print(data["user_id"])
+    print(data["food_type"])
+
+    return {"message": "Save eat history successfully"}
 
 
 @app.post("/search_by_name")
@@ -184,7 +224,8 @@ def find_food_db(request: FoodRequest):
     else:
         return {"status": "error", "message": "Connection failed"}
 
-    
+
+
 
 if __name__ == "__main__":
     import uvicorn
